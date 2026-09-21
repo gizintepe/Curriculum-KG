@@ -1,0 +1,1792 @@
+[
+  {
+    "id": "1366",
+    "label": "Bachelor of Data Science (3769)\n\t\t\t\t",
+    "data": {
+      "type": "Program",
+      "programName": "Bachelor of Data Science (3769)\n\t\t\t\t",
+      "programLink": "https://hbook.westernsydney.edu.au/programs/bachelor-data-science/",
+      "programSequences": [
+        "Full-time start-year intake",
+        "Full-time mid-year intake",
+        "Surabaya Campus Indonesia - 2024 students",
+        "Surabaya Campus Indonesia - 2025 students"
+      ],
+      "filtered": 6
+    },
+    "fill": "#0C3C51",
+    "size": 50
+  },
+  {
+    "id": "814",
+    "label": "NATS 1019\n(Required)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[]",
+      "coordinator": "Luke Barnes",
+      "creditPoints": "10",
+      "code": "NATS 1019",
+      "subjectSequences": [
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2024 students",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2025 students"
+      ],
+      "teachingPeriods": [
+        "{\"period\":\"Autumn (2025)\",\"locations\":[\"Campbelltown\",\"Hawkesbury\",\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Spring (2025)\",\"locations\":[\"Campbelltown\",\"Hawkesbury\",\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Surabaya Semester 1 (2025)\",\"locations\":[\"Surabaya\"]}"
+      ],
+      "school": "Science",
+      "description": "This subject is designed to provide students with scientific literacy, personal and employability skills and attitudes required to successfully undertake science-related undergraduate studies and to prepare for professional life. Students learn, develop and utilise academic and interpersonal methodologies and approaches within the context of applied scientific principles and take responsibility for their own learning and develop a work ethic. Students are introduced to the contestable and uncertain nature of science and the scientific method that underpins academic integrity and ethical behaviour. Activities encourage development of oral and written communication skills, self-confidence, self-efficacy, creative and critical thinking through problem solving, group process, and peer support and assessment. Academic and employability skills include scientific reading and writing, time management, researching scientific information and library skills, oral presentation, taking tests and exams, effective personal and group based learning strategies, and approaches to online learning.",
+      "discipline": "Natural and Physical Sciences, Not Elsewhere Classified.",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/nats1019",
+      "subjectName": "NATS 1019 Scientific Literacy\n\t\t\t\t",
+      "filtered": 6,
+      "status": 1
+    },
+    "fill": "#bf7ca1",
+    "size": 20
+  },
+  {
+    "id": "1106",
+    "label": "Requirements Not Met",
+    "data": {
+      "type": "Prerequisites",
+      "subjects": "[{\"OR\":[\"MATH 1030\"]},{\"OR\":[\"COMP 1013\"]},{\"OR\":[\"MATH 1002\"]}]",
+      "course": "SPECIAL",
+      "forSubject": "COMP 3020",
+      "filtered": 4,
+      "status": 4
+    },
+    "fill": "#AAAAAA",
+    "size": 10
+  },
+  {
+    "id": "824",
+    "label": "INFO 1003\n(Required)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[]",
+      "coordinator": "Heidi Bjering",
+      "creditPoints": "10",
+      "code": "INFO 1003",
+      "subjectSequences": [
+        "Bachelor of Information Systems Advanced (3688)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Information Systems Advanced (3688)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Information Systems Advanced (3688)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Information Systems Advanced (3688)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Information Systems (3687)\n\t\t\t\t:Full-time start-year intake - Parramatta Campus",
+        "Bachelor of Information Systems (3687)\n\t\t\t\t:Full-time mid-year intake - Parramatta Campus",
+        "Bachelor of Information and Communications Technology (Advanced) (3684)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Information and Communications Technology (Advanced) (3684)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Information and Communications Technology (3639)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Information and Communications Technology (3639)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Information and Communications Technology (3639)\n\t\t\t\t:Surabaya Campus Indonesia",
+        "Bachelor of Information and Communications Technology (3639)\n\t\t\t\t:Surabaya Campus Indonesia",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2024 students",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2025 students",
+        "Bachelor of Computer Science (Advanced) (3634)\n\t\t\t\t:Program Structure Current",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Accelerated Pathway - Summer Sessions",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Suggested Elective Subjects",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Surabaya Campus Indonesia September 2024 Intake",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Sequence 6"
+      ],
+      "teachingPeriods": [
+        "{\"period\":\"Surabaya Semester 2 (2025)\",\"locations\":[\"Surabaya\"]}",
+        "{\"period\":\"Autumn (2025)\",\"locations\":[\"Campbelltown\",\"Penrith (Kingswood)\",\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Sydney City Campus - Term 1 (2025)\",\"locations\":[\"Sydney City\"]}",
+        "{\"period\":\"Sydney City Campus - Term 2 (2025)\",\"locations\":[\"Sydney City\"]}",
+        "{\"period\":\"Sydney City Campus - Term 3 (2025)\",\"locations\":[\"Sydney City\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "Working in ICT business environments requires awareness of how individuals can collaborate to achieve project goals in an ethical and professional way. This subject introduces students to concepts of professional behaviour, including ethics and professional conduct and associated industry behavioural codes, as well as legal aspects related to ICT. Students learn about various types of written and oral communication, professional behaviour when working in teams, and personal project management. In addition, the subject also introduces students to academic integrity and how to practice this during their degree. Students with professional practice skills combined with technical abilities are in high demand.\n\n",
+      "discipline": "Information Technology, Not Elsewhere Classified.",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/info1003",
+      "subjectName": "INFO 1003 Professional Practice, Communication and Ethics\n\t\t\t\t",
+      "filtered": 6,
+      "status": 1
+    },
+    "fill": "#bf7ca1",
+    "size": 20
+  },
+  {
+    "id": "1108",
+    "label": "Requirements Not Met",
+    "data": {
+      "type": "Prerequisites",
+      "subjects": "[{\"OR\":[\"MATH 2006\"]},{\"OR\":[\"COMP 1013\"]},{\"OR\":[\"MATH 1002\"]}]",
+      "course": "SPECIAL",
+      "forSubject": "COMP 3020",
+      "filtered": 4,
+      "status": 4
+    },
+    "fill": "#AAAAAA",
+    "size": 10
+  },
+  {
+    "id": "767",
+    "label": "MATH 1006\n(Required)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[]",
+      "coordinator": "Charles Zworestine",
+      "creditPoints": "10",
+      "code": "MATH 1006",
+      "subjectSequences": [
+        "Bachelor of Information and Communications Technology (3639)\n\t\t\t\t:Surabaya Campus Indonesia",
+        "Bachelor of Information and Communications Technology (3639)\n\t\t\t\t:Surabaya Campus Indonesia",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2024 students",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2025 students",
+        "Bachelor of Computer Science (Advanced) (3634)\n\t\t\t\t:Program Structure Current",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Accelerated Pathway - Summer Sessions",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Suggested Elective Subjects",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Surabaya Campus Indonesia September 2024 Intake",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Sequence 6"
+      ],
+      "teachingPeriods": [
+        "{\"period\":\"Surabaya Semester 2 (2025)\",\"locations\":[\"Surabaya\"]}",
+        "{\"period\":\"Autumn (2025)\",\"locations\":[\"Campbelltown\",\"Penrith (Kingswood)\",\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Sydney City Campus - Term 2 (2025)\",\"locations\":[\"Sydney City\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "Discrete Mathematics introduces set theory, symbolic logic, graph  theory and some counting techniques. The subject develops mathematical thinking and builds problem solving skills. It provides a solid foundation for further study in mathematics or computing.",
+      "discipline": "Mathematical Sciences, Not Elsewhere Classified.",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/math1006",
+      "subjectName": "MATH 1006 Discrete Mathematics\n\t\t\t\t",
+      "filtered": 6,
+      "status": 1
+    },
+    "fill": "#bf7ca1",
+    "size": 20
+  },
+  {
+    "id": "1099",
+    "label": "Requirements Not Met",
+    "data": {
+      "type": "Prerequisites",
+      "subjects": "[{\"OR\":[\"COMP 1005\"]}]",
+      "course": "any",
+      "forSubject": "COMP 2020",
+      "filtered": 4,
+      "status": 4
+    },
+    "fill": "#AAAAAA",
+    "size": 10
+  },
+  {
+    "id": "744",
+    "label": "COMP 2025\n(Required)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[]",
+      "coordinator": "Liwan Liyanage",
+      "creditPoints": "10",
+      "code": "COMP 2025",
+      "subjectSequences": [
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2024 students",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2025 students",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Suggested Elective Subjects",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Surabaya Campus Indonesia September 2024 Intake",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Sequence 6"
+      ],
+      "teachingPeriods": [
+        "{\"period\":\"Sydney City Campus - Term 1 (2025)\",\"locations\":[\"Sydney City\"]}",
+        "{\"period\":\"Vietnam Session 2 (2025)\",\"locations\":[\"Vietnam\"]}",
+        "{\"period\":\"Spring (2025)\",\"locations\":[\"Campbelltown\",\"Parramatta - Victoria Rd\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "Analysis of data is essential for scientific investigation, modelling processes and predicting future events. Data Science is the investigation of the tools required that allow us to perform this modelling and prediction. The increase in accessible data over the past few decades has promoted the use of Data Science, making it a desired skill in many professions. In this subject we further investigate the methods of regression, clustering and classification that form the basis of a data scientist's toolbox.",
+      "discipline": "Computer Science, Not Elsewhere Classified.",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/comp2025",
+      "subjectName": "COMP 2025 Introduction to Data Science\n\t\t\t\t",
+      "filtered": 6,
+      "status": 1
+    },
+    "fill": "#bf7ca1",
+    "size": 20
+  },
+  {
+    "id": "1185",
+    "label": "Requirements Not Met",
+    "data": {
+      "type": "Prerequisites",
+      "subjects": "[{\"OR\":[\"INFO 1003\",\"COMM 1044\",\"COMM 1026\"]}]",
+      "course": "SPECIAL",
+      "forSubject": "INFO 3019",
+      "filtered": 4,
+      "status": 4
+    },
+    "fill": "#AAAAAA",
+    "size": 10
+  },
+  {
+    "id": "1101",
+    "label": "Requirements Not Met",
+    "data": {
+      "type": "Prerequisites",
+      "subjects": "[{\"OR\":[\"MATH 1028\",\"MATH 1033\",\"COMP 1014\",\"MATH 1003\",\"MATH 1030\"]},{\"OR\":[\"COMP 1005\",\"MATH 1002\",\"COMP 3002\"]}]",
+      "course": "any",
+      "forSubject": "COMP 3032",
+      "filtered": 4,
+      "status": 4
+    },
+    "fill": "#AAAAAA",
+    "size": 10
+  },
+  {
+    "id": "1098",
+    "label": "Requirements Not Met",
+    "data": {
+      "type": "Prerequisites",
+      "subjects": "[{\"OR\":[\"COMP 1013\",\"COMP 1005\"]}]",
+      "course": "any",
+      "forSubject": "COMP 3002",
+      "filtered": 4,
+      "status": 4
+    },
+    "fill": "#AAAAAA",
+    "size": 10
+  },
+  {
+    "id": "1104",
+    "label": "Requirements Not Met",
+    "data": {
+      "type": "Prerequisites",
+      "subjects": "[{\"OR\":[\"COMP 2020\",\"COMP 2021\"]}]",
+      "course": "any",
+      "forSubject": "INFO 3002",
+      "filtered": 4,
+      "status": 4
+    },
+    "fill": "#AAAAAA",
+    "size": 10
+  },
+  {
+    "id": "1107",
+    "label": "Requirements Not Met",
+    "data": {
+      "type": "Prerequisites",
+      "subjects": "[{\"OR\":[\"MATH 1012\"]},{\"OR\":[\"COMP 1013\"]},{\"OR\":[\"MATH 1002\"]}]",
+      "course": "SPECIAL",
+      "forSubject": "COMP 3020",
+      "filtered": 4,
+      "status": 4
+    },
+    "fill": "#AAAAAA",
+    "size": 10
+  },
+  {
+    "id": "769",
+    "label": "COMP 2004\n(Required)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[]",
+      "coordinator": "Nabil Giweli",
+      "creditPoints": "10",
+      "code": "COMP 2004",
+      "subjectSequences": [
+        "Bachelor of Information Systems (3687)\n\t\t\t\t:Full-time start-year intake - Parramatta Campus",
+        "Bachelor of Information Systems (3687)\n\t\t\t\t:Full-time mid-year intake - Parramatta Campus",
+        "Bachelor of Information and Communications Technology (3639)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Information and Communications Technology (3639)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Information and Communications Technology (3639)\n\t\t\t\t:Surabaya Campus Indonesia",
+        "Bachelor of Information and Communications Technology (3639)\n\t\t\t\t:Surabaya Campus Indonesia",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2024 students",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2025 students",
+        "Bachelor of Cyber Security and Behaviour (1837)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Cyber Security and Behaviour (1837)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Cyber Security and Behaviour (1837)\n\t\t\t\t:Full-time intake",
+        "Bachelor of Cyber Security and Behaviour (1837)\n\t\t\t\t:Part-time intake",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Accelerated Pathway - Summer Sessions",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Suggested Elective Subjects",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Surabaya Campus Indonesia September 2024 Intake",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Sequence 6"
+      ],
+      "teachingPeriods": [
+        "{\"period\":\"Sydney City Campus - Term 1 (2025)\",\"locations\":[\"Sydney City\"]}",
+        "{\"period\":\"Sydney City Campus - Term 2 (2025)\",\"locations\":[\"Sydney City\"]}",
+        "{\"period\":\"Spring (2025)\",\"locations\":[\"Campbelltown\",\"Penrith (Kingswood)\",\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Surabaya Semester 1 (2025)\",\"locations\":[\"Surabaya\"]}",
+        "{\"period\":\"WSU Online TRI-3 (2025)\",\"locations\":[\"Wsu Online\"]}",
+        "{\"period\":\"Sydney City Campus - Term 3 (2025)\",\"locations\":[\"Sydney City\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "Computer Networking is an introductory subject in computer systems networking. It covers basic networking technologies, Ethernet fundamentals, ISO OSI model, routing, switching and subnetting, the Internet architecture, networking protocols including TCP/IP, important OSI layer 2 and 3 networking device fundamentals, basic network management and security issues. This subject is also the first of three units, which will prepare students for industry based networking certification (CCNA).",
+      "discipline": "Networks and Communications",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/comp2004",
+      "subjectName": "COMP 2004 Computer Networking\n\t\t\t\t",
+      "filtered": 6,
+      "status": 1
+    },
+    "fill": "#bf7ca1",
+    "size": 20
+  },
+  {
+    "id": "747",
+    "label": "COMP 2023\n(Required)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[]",
+      "coordinator": "Roozbeh Hazrat",
+      "creditPoints": "10",
+      "code": "COMP 2023",
+      "subjectSequences": [
+        "Bachelor of Information and Communications Technology (3639)\n\t\t\t\t:Surabaya Campus Indonesia",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2024 students",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2025 students"
+      ],
+      "teachingPeriods": [
+        "{\"period\":\"Spring (2025)\",\"locations\":[\"Campbelltown\",\"Penrith (Kingswood)\",\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Surabaya Semester 1 (2025)\",\"locations\":[\"Surabaya\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "This subject will introduce the programming language Python, through which students will explore and investigate practical mathematical problems.  Python is one of the most powerful versatile programming languages, and it is increasingly used by engineers and scientists as well as banks and financial institutions to tackle their computational problems.  The subject promotes an experimental side of mathematics and will employ Python-based computational tools to gain insight and intuition into problems, to discover mathematical patterns and relationships, and to use visualisation techniques to expose mathematical structures.",
+      "discipline": "Programming",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/comp2023",
+      "subjectName": "COMP 2023 Mathematical Programming\n\t\t\t\t",
+      "filtered": 6,
+      "status": 1
+    },
+    "fill": "#bf7ca1",
+    "size": 20
+  },
+  {
+    "id": "1100",
+    "label": "Requirements Not Met",
+    "data": {
+      "type": "Prerequisites",
+      "subjects": "[{\"OR\":[\"MATH 1033\",\"MATH 1028\"]},{\"OR\":[\"COMP 1013\",\"COMP 2023\"]}]",
+      "course": "any",
+      "forSubject": "MATH 3011",
+      "filtered": 4,
+      "status": 4
+    },
+    "fill": "#AAAAAA",
+    "size": 10
+  },
+  {
+    "id": "746",
+    "label": "COMP 1014\n(Required)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[]",
+      "coordinator": "Gizem Intepe",
+      "creditPoints": "10",
+      "code": "COMP 1014",
+      "subjectSequences": [
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2024 students",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2025 students"
+      ],
+      "teachingPeriods": [
+        "{\"period\":\"Autumn (2025)\",\"locations\":[\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Vietnam Session 2 (2025)\",\"locations\":[\"Vietnam\"]}",
+        "{\"period\":\"Sydney City Campus - Term 2 (2025)\",\"locations\":[\"Sydney City\"]}",
+        "{\"period\":\"Spring (2025)\",\"locations\":[\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Surabaya Semester 1 (2025)\",\"locations\":[\"Surabaya\"]}",
+        "{\"period\":\"Vietnam Session 3 (2025)\",\"locations\":[\"Vietnam\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "This subject covers basic concepts of data centric thinking. The main areas discussed are; Populations and Samples; Sampling concepts; Types of Data; Descriptive Methods; Estimation and Inference; Modelling. The subject takes a computational and nonparametric approach, before briefly discussing theoretical concepts and distribution theory.",
+      "discipline": "Computer Science",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/comp1014",
+      "subjectName": "COMP 1014 Thinking About Data\n\t\t\t\t",
+      "filtered": 6,
+      "status": 1
+    },
+    "fill": "#bf7ca1",
+    "size": 20
+  },
+  {
+    "id": "1105",
+    "label": "Requirements Not Met",
+    "data": {
+      "type": "Prerequisites",
+      "subjects": "[{\"OR\":[\"MATH 1028\",\"MATH 1003\",\"COMP 1014\"]}]",
+      "course": "SPECIAL",
+      "forSubject": "COMP 3020",
+      "filtered": 4,
+      "status": 4
+    },
+    "fill": "#AAAAAA",
+    "size": 10
+  },
+  {
+    "id": "745",
+    "label": "COMP 2026\n(Required)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[]",
+      "coordinator": "Zhonglin Qu",
+      "creditPoints": "10",
+      "code": "COMP 2026",
+      "subjectSequences": [
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2024 students",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2025 students",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Suggested Elective Subjects",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Sequence 6"
+      ],
+      "teachingPeriods": [
+        "{\"period\":\"Surabaya Semester 2 (2025)\",\"locations\":[\"Surabaya\"]}",
+        "{\"period\":\"Autumn (2025)\",\"locations\":[\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Sydney City Campus - Term 2 (2025)\",\"locations\":[\"Sydney City\"]}",
+        "{\"period\":\"Vietnam Session 3 (2025)\",\"locations\":[\"Vietnam\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "This subject introduces the fundamentals and technologies of visual analytics to understand big data.  It covers major concepts of information visualisation, human computer perception and methods for visual data analysis. Students will learn knowledge and skills for identifying suitable visual analytics techniques, methods and tools for handling various data sets and applications. The subject  provides students with opportunities to explore novel research in visual analytics and visualisation.",
+      "discipline": "Computer Science",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/comp2026",
+      "subjectName": "COMP 2026 Visual Analytics\n\t\t\t\t",
+      "filtered": 6,
+      "status": 1
+    },
+    "fill": "#bf7ca1",
+    "size": 20
+  },
+  {
+    "id": "770",
+    "label": "INFS 2001\n(Required)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[]",
+      "coordinator": "Junda Lu",
+      "creditPoints": "10",
+      "code": "INFS 2001",
+      "subjectSequences": [
+        "Bachelor of Information Systems (3687)\n\t\t\t\t:Full-time start-year intake - Parramatta Campus",
+        "Bachelor of Information Systems (3687)\n\t\t\t\t:Full-time mid-year intake - Parramatta Campus",
+        "Bachelor of Information and Communications Technology (3639)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Information and Communications Technology (3639)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Information and Communications Technology (3639)\n\t\t\t\t:Surabaya Campus Indonesia",
+        "Bachelor of Information and Communications Technology (3639)\n\t\t\t\t:Surabaya Campus Indonesia",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2024 students",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2025 students",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Accelerated Pathway - Summer Sessions",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Suggested Elective Subjects",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Surabaya Campus Indonesia September 2024 Intake",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Sequence 6"
+      ],
+      "teachingPeriods": [
+        "{\"period\":\"Sydney City Campus - Term 1 (2025)\",\"locations\":[\"Sydney City\"]}",
+        "{\"period\":\"Sydney City Campus - Term 2 (2025)\",\"locations\":[\"Sydney City\"]}",
+        "{\"period\":\"Spring (2025)\",\"locations\":[\"Campbelltown\",\"Penrith (Kingswood)\",\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Surabaya Semester 1 (2025)\",\"locations\":[\"Surabaya\"]}",
+        "{\"period\":\"Sydney City Campus - Term 3 (2025)\",\"locations\":[\"Sydney City\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "The main purpose of this subject is to provide students with an opportunity to gain a basic knowledge of database design and development including data modelling methods, techniques for database design using a set of business rules that are derived from a case study and finally implementation of the database using a commercial relational database management system. Through group work and tutorial practicals, students examine a number of important database concepts such as database administration, concurrency, backup and recovery and security whilst developing their professional communication and team work skills.",
+      "discipline": "Database Management",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/infs2001",
+      "subjectName": "INFS 2001 Database Design and Development\n\t\t\t\t",
+      "filtered": 6,
+      "status": 1
+    },
+    "fill": "#bf7ca1",
+    "size": 20
+  },
+  {
+    "id": "742",
+    "label": "COMP 3035\n(Required)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[]",
+      "coordinator": "Rosalind Wang",
+      "creditPoints": "10",
+      "code": "COMP 3035",
+      "subjectSequences": [
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2024 students",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2025 students"
+      ],
+      "teachingPeriods": [
+        "{\"period\":\"Vietnam Session 1 (2025)\",\"locations\":[\"Vietnam\"]}",
+        "{\"period\":\"Autumn (2025)\",\"locations\":[\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Vietnam Session 2 (2025)\",\"locations\":[\"Vietnam\"]}",
+        "{\"period\":\"Spring (2025)\",\"locations\":[\"Parramatta - Victoria Rd\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "In this subject students will gain experience in applying data science skills and using knowledge gained during their undergraduate studies. Students will carry out a real life project transforming data to knowledge under the supervision of an academic mentor. Students will develop a project proposal and carry out a literature review highlighting the current status of the problem. They will then apply data science skills learned through-out the degree to produce a final discovery project report and/or interactive project tool followed by an oral presentation.",
+      "discipline": "Computer Science, Not Elsewhere Classified.",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/comp3035",
+      "subjectName": "COMP 3035 Discovery Project\n\t\t\t\t",
+      "filtered": 6,
+      "status": 1
+    },
+    "fill": "#bf7ca1",
+    "size": 20
+  },
+  {
+    "id": "808",
+    "label": "MATH 1014\n(Required)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[]",
+      "coordinator": "James East",
+      "creditPoints": "10",
+      "code": "MATH 1014",
+      "subjectSequences": [
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2024 students",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2025 students"
+      ],
+      "teachingPeriods": [
+        "{\"period\":\"Autumn (2025)\",\"locations\":[\"Campbelltown\",\"Penrith (Kingswood)\",\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Spring (2025)\",\"locations\":[\"Campbelltown\",\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Surabaya Semester 1 (2025)\",\"locations\":[\"Surabaya\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "This Level 1 subject provides a solid foundation in the theory and applications of differential calculus, as well as some introductory work on complex numbers.  It is the first of two subjects developing aspects of calculus.",
+      "discipline": "Mathematics",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/math1014",
+      "subjectName": "MATH 1014 Mathematics 1A\n\t\t\t\t",
+      "filtered": 6,
+      "status": 1
+    },
+    "fill": "#bf7ca1",
+    "size": 20
+  },
+  {
+    "id": "825",
+    "label": "COMP 1005\n(Required)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[]",
+      "coordinator": "Anton Bogdanovych",
+      "creditPoints": "10",
+      "code": "COMP 1005",
+      "subjectSequences": [
+        "Bachelor of Information Systems Advanced (3688)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Information Systems Advanced (3688)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Information Systems Advanced (3688)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Information Systems Advanced (3688)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Information Systems (3687)\n\t\t\t\t:Full-time start-year intake - Parramatta Campus",
+        "Bachelor of Information Systems (3687)\n\t\t\t\t:Full-time mid-year intake - Parramatta Campus",
+        "Bachelor of Information and Communications Technology (Advanced) (3684)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Information and Communications Technology (Advanced) (3684)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Information and Communications Technology (3639)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Information and Communications Technology (3639)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Information and Communications Technology (3639)\n\t\t\t\t:Surabaya Campus Indonesia",
+        "Bachelor of Information and Communications Technology (3639)\n\t\t\t\t:Surabaya Campus Indonesia",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2024 students",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2025 students",
+        "Bachelor of Cyber Security and Behaviour (1837)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Cyber Security and Behaviour (1837)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Cyber Security and Behaviour (1837)\n\t\t\t\t:Full-time intake",
+        "Bachelor of Cyber Security and Behaviour (1837)\n\t\t\t\t:Part-time intake",
+        "Bachelor of Computer Science (Advanced) (3634)\n\t\t\t\t:Program Structure Current",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Accelerated Pathway - Summer Sessions",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Suggested Elective Subjects",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Surabaya Campus Indonesia September 2024 Intake",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Sequence 6"
+      ],
+      "teachingPeriods": [
+        "{\"period\":\"Autumn (2025)\",\"locations\":[\"Campbelltown\",\"Penrith (Kingswood)\",\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Sydney City Campus - Term 1 (2025)\",\"locations\":[\"Sydney City\"]}",
+        "{\"period\":\"Sydney City Campus - Term 2 (2025)\",\"locations\":[\"Sydney City\"]}",
+        "{\"period\":\"Spring (2025)\",\"locations\":[\"Campbelltown\",\"Penrith (Kingswood)\",\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Surabaya Semester 1 (2025)\",\"locations\":[\"Surabaya\"]}",
+        "{\"period\":\"Sydney City Campus - Term 3 (2025)\",\"locations\":[\"Sydney City\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "As a first subject in computer programming, Programming Fundamentals covers the basics of developing software with an emphasis on procedural programming. Students will learn about basic data structures, the concept of algorithms, fundamental programming constructs, common programming language features and functions, program design and good programming style. A high level programming language is combined with a highly visual framework to teach problem solving using software.",
+      "discipline": "Programming",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/comp1005",
+      "subjectName": "COMP 1005 Programming Fundamentals\n\t\t\t\t",
+      "filtered": 6,
+      "status": 1
+    },
+    "fill": "#bf7ca1",
+    "size": 20
+  },
+  {
+    "id": "1102",
+    "label": "Requirements Not Met",
+    "data": {
+      "type": "Prerequisites",
+      "subjects": "[{\"OR\":[\"COMP 2004\"]}]",
+      "course": "any",
+      "forSubject": "INFO 3002",
+      "filtered": 4,
+      "status": 4
+    },
+    "fill": "#AAAAAA",
+    "size": 10
+  },
+  {
+    "id": "748",
+    "label": "COMP 1013\n(Required)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[]",
+      "coordinator": "Chng Wei Lau",
+      "creditPoints": "10",
+      "code": "COMP 1013",
+      "subjectSequences": [
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2024 students",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2025 students",
+        "Bachelor of Cyber Security and Behaviour (1837)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Cyber Security and Behaviour (1837)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Cyber Security and Behaviour (1837)\n\t\t\t\t:Full-time intake",
+        "Bachelor of Cyber Security and Behaviour (1837)\n\t\t\t\t:Part-time intake"
+      ],
+      "teachingPeriods": [
+        "{\"period\":\"Vietnam Session 1 (2025)\",\"locations\":[\"Vietnam\"]}",
+        "{\"period\":\"Surabaya Semester 2 (2025)\",\"locations\":[\"Surabaya\"]}",
+        "{\"period\":\"Autumn (2025)\",\"locations\":[\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Spring (2025)\",\"locations\":[\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"WSU Online TRI-3 (2025)\",\"locations\":[\"Wsu Online\"]}",
+        "{\"period\":\"Vietnam Session 3 (2025)\",\"locations\":[\"Vietnam\"]}",
+        "{\"period\":\"Sydney City Campus - Term 3 (2025)\",\"locations\":[\"Sydney City\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "This subject covers the use of computers and computer programming for Data Science. After briefly considering spreadsheet systems, the subject will consider programming in the statistical system \"R\" in depth. Finally, other special purpose languages will be touched briefly (eg. SQL).",
+      "discipline": "Computer Science",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/comp1013",
+      "subjectName": "COMP 1013 Analytics Programming\n\t\t\t\t",
+      "filtered": 6,
+      "status": 1
+    },
+    "fill": "#bf7ca1",
+    "size": 20
+  },
+  {
+    "id": "1103",
+    "label": "Requirements Not Met",
+    "data": {
+      "type": "Prerequisites",
+      "subjects": "[{\"OR\":[\"COMP 2005\"]},{\"OR\":[\"COMP 2014\"]}]",
+      "course": "any",
+      "forSubject": "INFO 3002",
+      "filtered": 4,
+      "status": 4
+    },
+    "fill": "#AAAAAA",
+    "size": 10
+  },
+  {
+    "id": "1396",
+    "label": "Choose 3",
+    "data": {
+      "type": "SubjectChoice",
+      "parent": "Bachelor of Data Science (3769)\n\t\t\t\t",
+      "choiceName": "\"Select three major, minor or elective subjects\"",
+      "choices": 3,
+      "choiceSequences": [],
+      "filtered": 6
+    },
+    "fill": "#ffdc80",
+    "size": 10
+  },
+  {
+    "id": "1394",
+    "label": "Choose 2",
+    "data": {
+      "type": "SubjectChoice",
+      "parent": "Bachelor of Data Science (3769)\n\t\t\t\t",
+      "choiceName": "\"Select two major, minor or elective subjects\"",
+      "choices": 2,
+      "choiceSequences": [],
+      "filtered": 6
+    },
+    "fill": "#ffdc80",
+    "size": 10
+  },
+  {
+    "id": "1397",
+    "label": "Choose 1",
+    "data": {
+      "type": "SubjectChoice",
+      "parent": "Bachelor of Data Science (3769)\n\t\t\t\t",
+      "choiceName": "\"Select one major, minor or elective subject\"",
+      "choices": 1,
+      "choiceSequences": [],
+      "filtered": 6
+    },
+    "fill": "#ffdc80",
+    "size": 10
+  },
+  {
+    "id": "1395",
+    "label": "Choose 1",
+    "data": {
+      "type": "SubjectChoice",
+      "parent": "Bachelor of Data Science (3769)\n\t\t\t\t",
+      "choiceName": "\"Select one major, minor or elective subjects\"",
+      "choices": 1,
+      "choiceSequences": [],
+      "filtered": 6
+    },
+    "fill": "#ffdc80",
+    "size": 10
+  },
+  {
+    "id": "713",
+    "label": "COMP 3020\n(Ineligible)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[\n  {\n    \"course\": \"SPECIAL\",\n    \"AND\": [\n      {\n        \"OR\": [\n          \"MATH 1028\",\n          \"MATH 1003\",\n          \"COMP 1014\"\n        ]\n      }\n    ]\n  },\n  {\n    \"course\": \"SPECIAL\",\n    \"AND\": [\n      {\n        \"OR\": [\n          \"MATH 1030\"\n        ]\n      },\n      {\n        \"OR\": [\n          \"COMP 1013\"\n        ]\n      },\n      {\n        \"OR\": [\n          \"MATH 1002\"\n        ]\n      }\n    ]\n  },\n  {\n    \"course\": \"SPECIAL\",\n    \"AND\": [\n      {\n        \"OR\": [\n          \"MATH 1012\"\n        ]\n      },\n      {\n        \"OR\": [\n          \"COMP 1013\"\n        ]\n      },\n      {\n        \"OR\": [\n          \"MATH 1002\"\n        ]\n      }\n    ]\n  },\n  {\n    \"course\": \"SPECIAL\",\n    \"AND\": [\n      {\n        \"OR\": [\n          \"MATH 2006\"\n        ]\n      },\n      {\n        \"OR\": [\n          \"COMP 1013\"\n        ]\n      },\n      {\n        \"OR\": [\n          \"MATH 1002\"\n        ]\n      }\n    ]\n  }\n]",
+      "coordinator": "Gizem Intepe",
+      "creditPoints": "10",
+      "code": "COMP 3020",
+      "subjectSequences": [
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2024 students",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2025 students"
+      ],
+      "teachingPeriods": [
+        "{\"period\":\"Vietnam Session 2 (2025)\",\"locations\":[\"Vietnam\"]}",
+        "{\"period\":\"Spring (2025)\",\"locations\":[\"Penrith (Kingswood)\",\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Vietnam Session 3 (2025)\",\"locations\":[\"Vietnam\"]}",
+        "{\"period\":\"Sydney City Campus - Term 3 (2025)\",\"locations\":[\"Sydney City\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "The Social Web provides everyone with a voice; information from Facebook, Twitter and other social networks allows us to identify trends and relationships in society. Whilst this has interest on a personal level, the killer-apps will be in analysing social Web data for business, such as tracking the buzz around a new product, and understanding the relationships between customers and products. This subject will introduce its students to the Social Web data that is available, and blend data science and machine learning concepts to allow extraction and analysis of such data.",
+      "discipline": "Statistics",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/comp3020",
+      "subjectName": "COMP 3020 Social Web Analytics\n\t\t\t\t",
+      "filtered": 6,
+      "status": 4
+    },
+    "fill": "#AAAAAA",
+    "size": 20
+  },
+  {
+    "id": "713",
+    "label": "COMP 3020\n(Ineligible)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[\n  {\n    \"course\": \"SPECIAL\",\n    \"AND\": [\n      {\n        \"OR\": [\n          \"MATH 1028\",\n          \"MATH 1003\",\n          \"COMP 1014\"\n        ]\n      }\n    ]\n  },\n  {\n    \"course\": \"SPECIAL\",\n    \"AND\": [\n      {\n        \"OR\": [\n          \"MATH 1030\"\n        ]\n      },\n      {\n        \"OR\": [\n          \"COMP 1013\"\n        ]\n      },\n      {\n        \"OR\": [\n          \"MATH 1002\"\n        ]\n      }\n    ]\n  },\n  {\n    \"course\": \"SPECIAL\",\n    \"AND\": [\n      {\n        \"OR\": [\n          \"MATH 1012\"\n        ]\n      },\n      {\n        \"OR\": [\n          \"COMP 1013\"\n        ]\n      },\n      {\n        \"OR\": [\n          \"MATH 1002\"\n        ]\n      }\n    ]\n  },\n  {\n    \"course\": \"SPECIAL\",\n    \"AND\": [\n      {\n        \"OR\": [\n          \"MATH 2006\"\n        ]\n      },\n      {\n        \"OR\": [\n          \"COMP 1013\"\n        ]\n      },\n      {\n        \"OR\": [\n          \"MATH 1002\"\n        ]\n      }\n    ]\n  }\n]",
+      "coordinator": "Gizem Intepe",
+      "creditPoints": "10",
+      "code": "COMP 3020",
+      "subjectSequences": [
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2024 students",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2025 students"
+      ],
+      "teachingPeriods": [
+        "{\"period\":\"Vietnam Session 2 (2025)\",\"locations\":[\"Vietnam\"]}",
+        "{\"period\":\"Spring (2025)\",\"locations\":[\"Penrith (Kingswood)\",\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Vietnam Session 3 (2025)\",\"locations\":[\"Vietnam\"]}",
+        "{\"period\":\"Sydney City Campus - Term 3 (2025)\",\"locations\":[\"Sydney City\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "The Social Web provides everyone with a voice; information from Facebook, Twitter and other social networks allows us to identify trends and relationships in society. Whilst this has interest on a personal level, the killer-apps will be in analysing social Web data for business, such as tracking the buzz around a new product, and understanding the relationships between customers and products. This subject will introduce its students to the Social Web data that is available, and blend data science and machine learning concepts to allow extraction and analysis of such data.",
+      "discipline": "Statistics",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/comp3020",
+      "subjectName": "COMP 3020 Social Web Analytics\n\t\t\t\t",
+      "filtered": 6,
+      "status": 4
+    },
+    "fill": "#AAAAAA",
+    "size": 20
+  },
+  {
+    "id": "709",
+    "label": "COMP 2020\n(Ineligible)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[\n  {\n    \"course\": \"any\",\n    \"AND\": [\n      {\n        \"OR\": [\n          \"COMP 1005\"\n        ]\n      }\n    ]\n  }\n]",
+      "coordinator": "Paul Davies",
+      "creditPoints": "10",
+      "code": "COMP 2020",
+      "subjectSequences": [
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2024 students",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2025 students",
+        "Bachelor of Cyber Security and Behaviour (1837)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Cyber Security and Behaviour (1837)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Cyber Security and Behaviour (1837)\n\t\t\t\t:Full-time intake",
+        "Bachelor of Cyber Security and Behaviour (1837)\n\t\t\t\t:Part-time intake"
+      ],
+      "teachingPeriods": [
+        "{\"period\":\"WSU Online TRI-1 (2025)\",\"locations\":[\"Wsu Online\"]}",
+        "{\"period\":\"Autumn (2025)\",\"locations\":[\"Penrith (Kingswood)\",\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Sydney City Campus - Term 2 (2025)\",\"locations\":[\"Sydney City\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "Building on material covered in Programming Fundamentals this subject introduces students to some of the key technologies for developing interactive and dynamic web applications from both the client and server perspective. The subject covers web site design, web site development, web page accessibility and usability, HTML, CSS, client side and server side scripting, database interaction, web site promotion (Search Engine Optimisation) and web security.",
+      "discipline": "Computer Science, Not Elsewhere Classified.",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/comp2020",
+      "subjectName": "COMP 2020 Technologies for Web Applications\n\t\t\t\t",
+      "filtered": 6,
+      "status": 4
+    },
+    "fill": "#AAAAAA",
+    "size": 20
+  },
+  {
+    "id": "803",
+    "label": "INFO 3019\n(Ineligible)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[\n  {\n    \"course\": \"SPECIAL\",\n    \"AND\": [\n      {\n        \"OR\": [\n          \"INFO 1003\",\n          \"COMM 1044\",\n          \"COMM 1026\"\n        ]\n      }\n    ]\n  }\n]",
+      "coordinator": "Simi Kamini Bajaj",
+      "creditPoints": "10",
+      "code": "INFO 3019",
+      "subjectSequences": [
+        "Bachelor of Information Systems Advanced (3688)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Information Systems Advanced (3688)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Information Systems Advanced (3688)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Information Systems Advanced (3688)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Information Systems (3687)\n\t\t\t\t:Full-time start-year intake - Parramatta Campus",
+        "Bachelor of Information Systems (3687)\n\t\t\t\t:Full-time mid-year intake - Parramatta Campus",
+        "Bachelor of Information and Communications Technology (Advanced) (3684)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Information and Communications Technology (Advanced) (3684)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Information and Communications Technology (3639)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Information and Communications Technology (3639)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Information and Communications Technology (3639)\n\t\t\t\t:Surabaya Campus Indonesia",
+        "Bachelor of Information and Communications Technology (3639)\n\t\t\t\t:Surabaya Campus Indonesia",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2024 students",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2025 students",
+        "Bachelor of Computer Science (Advanced) (3634)\n\t\t\t\t:Program Structure Current",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Accelerated Pathway - Summer Sessions",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Suggested Elective Subjects",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Surabaya Campus Indonesia September 2024 Intake",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Sequence 6"
+      ],
+      "teachingPeriods": [
+        "{\"period\":\"Autumn (2025)\",\"locations\":[\"Penrith (Kingswood)\",\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Sydney City Campus - Term 1 (2025)\",\"locations\":[\"Sydney City\"]}",
+        "{\"period\":\"Sydney City Campus - Term 2 (2025)\",\"locations\":[\"Sydney City\"]}",
+        "{\"period\":\"Spring (2025)\",\"locations\":[\"Campbelltown\",\"Penrith (Kingswood)\",\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Surabaya Semester 1 (2025)\",\"locations\":[\"Surabaya\"]}",
+        "{\"period\":\"Sydney City Campus - Term 3 (2025)\",\"locations\":[\"Sydney City\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "This subject provides students with fundamental project management skills, theories, and frameworks required in today’s complex ICT and business environments. This subject explores the principles, methodologies, and best practices in project management. It develops skills in project initiation, planning, execution, closing, monitoring, and control using several methodologies. Students explore project management knowledge areas while integrating ethical principles and Indigenous perspectives into project planning and execution. Hands-on experience using industry-standard project management tools prepares students for real-world applications. Working in teams under staff supervision, students develop practical skills to work as assistant project managers or project team members. This subject equips students with the knowledge and tools needed to thrive in ICT project environments.",
+      "discipline": "Other Information Technology",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/info3019",
+      "subjectName": "INFO 3019 Project Management\n\t\t\t\t",
+      "filtered": 6,
+      "status": 4
+    },
+    "fill": "#AAAAAA",
+    "size": 20
+  },
+  {
+    "id": "711",
+    "label": "COMP 3032\n(Ineligible)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[\n  {\n    \"course\": \"any\",\n    \"AND\": [\n      {\n        \"OR\": [\n          \"MATH 1028\",\n          \"MATH 1033\",\n          \"COMP 1014\",\n          \"MATH 1003\",\n          \"MATH 1030\"\n        ]\n      },\n      {\n        \"OR\": [\n          \"COMP 1005\",\n          \"MATH 1002\",\n          \"COMP 3002\"\n        ]\n      }\n    ]\n  }\n]",
+      "coordinator": "Paul Hurley",
+      "creditPoints": "10",
+      "code": "COMP 3032",
+      "subjectSequences": [
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2024 students",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2025 students",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Suggested Elective Subjects",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Sequence 6"
+      ],
+      "teachingPeriods": [
+        "{\"period\":\"Vietnam Session 1 (2025)\",\"locations\":[\"Vietnam\"]}",
+        "{\"period\":\"Spring (2025)\",\"locations\":[\"Penrith (Kingswood)\",\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Surabaya Semester 1 (2025)\",\"locations\":[\"Surabaya\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "Machine Learning is one of the most important technologies in the fields of Artificial Intelligence and Data Science used to explain large datasets, inform decisions and highlight risks. Machine Learning is relevant for solving a range of problems in many industries dealing with significant amounts of information and the structure of that information. In this unit, students put Machine Learning theory into action through widely used algorithms and practical applications for designing, training, and evaluating common learning models and systems. Students use Python programming and, as a result, learn about its important machine learning libraries and packages, such as Scikit-Learn, Keras and TensorFlow for solving practical problems and tasks.",
+      "discipline": "Artificial Intelligence",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/comp3032",
+      "subjectName": "COMP 3032 Machine Learning\n\t\t\t\t",
+      "filtered": 6,
+      "status": 4
+    },
+    "fill": "#AAAAAA",
+    "size": 20
+  },
+  {
+    "id": "708",
+    "label": "COMP 3002\n(Ineligible)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[\n  {\n    \"course\": \"any\",\n    \"AND\": [\n      {\n        \"OR\": [\n          \"COMP 1013\",\n          \"COMP 1005\"\n        ]\n      }\n    ]\n  }\n]",
+      "coordinator": "Yi Guo",
+      "creditPoints": "10",
+      "code": "COMP 3002",
+      "subjectSequences": [
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2024 students",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2025 students"
+      ],
+      "teachingPeriods": [
+        "{\"period\":\"Autumn (2025)\",\"locations\":[\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Vietnam Session 3 (2025)\",\"locations\":[\"Vietnam\"]}",
+        "{\"period\":\"Sydney City Campus - Term 3 (2025)\",\"locations\":[\"Sydney City\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "Many techniques and tools have been developed over the past decade to cope with the ever-growing needs for the processing and analysis of big data. This subject will cover the key techniques that have been widely used in big data applications, such as relational and Not Only Structured Query Language (NoSQL) databases, Web Services, parallel and cloud computing, MapReduce, Hadoop and its eco-system. It aims to introduce the emerging technologies and applications in big data to students, and keep up with the latest trends in the industry.",
+      "discipline": "Computer Science",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/comp3002",
+      "subjectName": "COMP 3002 Applications of Big Data\n\t\t\t\t",
+      "filtered": 6,
+      "status": 4
+    },
+    "fill": "#AAAAAA",
+    "size": 20
+  },
+  {
+    "id": "712",
+    "label": "INFO 3002\n(Ineligible)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[\n  {\n    \"course\": \"any\",\n    \"AND\": [\n      {\n        \"OR\": [\n          \"COMP 2004\"\n        ]\n      }\n    ]\n  },\n  {\n    \"course\": \"any\",\n    \"AND\": [\n      {\n        \"OR\": [\n          \"COMP 2005\"\n        ]\n      },\n      {\n        \"OR\": [\n          \"COMP 2014\"\n        ]\n      }\n    ]\n  },\n  {\n    \"course\": \"any\",\n    \"AND\": [\n      {\n        \"OR\": [\n          \"COMP 2020\",\n          \"COMP 2021\"\n        ]\n      }\n    ]\n  }\n]",
+      "coordinator": "Weisheng Si",
+      "creditPoints": "10",
+      "code": "INFO 3002",
+      "subjectSequences": [
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2024 students",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2025 students",
+        "Bachelor of Cyber Security and Behaviour (1837)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Cyber Security and Behaviour (1837)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Cyber Security and Behaviour (1837)\n\t\t\t\t:Full-time intake",
+        "Bachelor of Cyber Security and Behaviour (1837)\n\t\t\t\t:Part-time intake",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Surabaya Campus Indonesia September 2024 Intake"
+      ],
+      "teachingPeriods": [
+        "{\"period\":\"WSU Online TRI-1 (2025)\",\"locations\":[\"Wsu Online\"]}",
+        "{\"period\":\"Autumn (2025)\",\"locations\":[\"Penrith (Kingswood)\",\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Sydney City Campus - Term 1 (2025)\",\"locations\":[\"Sydney City\"]}",
+        "{\"period\":\"Sydney City Campus - Term 2 (2025)\",\"locations\":[\"Sydney City\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "This subject teaches students ethical hacking principles and skills with the ultimate goal of defence. It covers practical skills in different stages of ethical hacking, including reconnaissance on public information, port and vulnerability scanning, exploitation of vulnerabilities, post exploitation, and writing a comprehensive report to document detected vulnerabilities and proposed solutions. Students will not only practise with major tools in ethical hacking, but also learn the principles of how these tools work and hence how to defend against them. Students completing this subject can pursue careers such as ethical hackers, security architects or security analysts.\n\n",
+      "discipline": "Security Science",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/info3002",
+      "subjectName": "INFO 3002 Ethical Hacking Principles and Practice\n\t\t\t\t",
+      "filtered": 6,
+      "status": 4
+    },
+    "fill": "#AAAAAA",
+    "size": 20
+  },
+  {
+    "id": "713",
+    "label": "COMP 3020\n(Ineligible)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[\n  {\n    \"course\": \"SPECIAL\",\n    \"AND\": [\n      {\n        \"OR\": [\n          \"MATH 1028\",\n          \"MATH 1003\",\n          \"COMP 1014\"\n        ]\n      }\n    ]\n  },\n  {\n    \"course\": \"SPECIAL\",\n    \"AND\": [\n      {\n        \"OR\": [\n          \"MATH 1030\"\n        ]\n      },\n      {\n        \"OR\": [\n          \"COMP 1013\"\n        ]\n      },\n      {\n        \"OR\": [\n          \"MATH 1002\"\n        ]\n      }\n    ]\n  },\n  {\n    \"course\": \"SPECIAL\",\n    \"AND\": [\n      {\n        \"OR\": [\n          \"MATH 1012\"\n        ]\n      },\n      {\n        \"OR\": [\n          \"COMP 1013\"\n        ]\n      },\n      {\n        \"OR\": [\n          \"MATH 1002\"\n        ]\n      }\n    ]\n  },\n  {\n    \"course\": \"SPECIAL\",\n    \"AND\": [\n      {\n        \"OR\": [\n          \"MATH 2006\"\n        ]\n      },\n      {\n        \"OR\": [\n          \"COMP 1013\"\n        ]\n      },\n      {\n        \"OR\": [\n          \"MATH 1002\"\n        ]\n      }\n    ]\n  }\n]",
+      "coordinator": "Gizem Intepe",
+      "creditPoints": "10",
+      "code": "COMP 3020",
+      "subjectSequences": [
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2024 students",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2025 students"
+      ],
+      "teachingPeriods": [
+        "{\"period\":\"Vietnam Session 2 (2025)\",\"locations\":[\"Vietnam\"]}",
+        "{\"period\":\"Spring (2025)\",\"locations\":[\"Penrith (Kingswood)\",\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Vietnam Session 3 (2025)\",\"locations\":[\"Vietnam\"]}",
+        "{\"period\":\"Sydney City Campus - Term 3 (2025)\",\"locations\":[\"Sydney City\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "The Social Web provides everyone with a voice; information from Facebook, Twitter and other social networks allows us to identify trends and relationships in society. Whilst this has interest on a personal level, the killer-apps will be in analysing social Web data for business, such as tracking the buzz around a new product, and understanding the relationships between customers and products. This subject will introduce its students to the Social Web data that is available, and blend data science and machine learning concepts to allow extraction and analysis of such data.",
+      "discipline": "Statistics",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/comp3020",
+      "subjectName": "COMP 3020 Social Web Analytics\n\t\t\t\t",
+      "filtered": 6,
+      "status": 4
+    },
+    "fill": "#AAAAAA",
+    "size": 20
+  },
+  {
+    "id": "710",
+    "label": "MATH 3011\n(Ineligible)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[\n  {\n    \"course\": \"any\",\n    \"AND\": [\n      {\n        \"OR\": [\n          \"MATH 1033\",\n          \"MATH 1028\"\n        ]\n      },\n      {\n        \"OR\": [\n          \"COMP 1013\",\n          \"COMP 2023\"\n        ]\n      }\n    ]\n  }\n]",
+      "coordinator": "Oliver Obst",
+      "creditPoints": "10",
+      "code": "MATH 3011",
+      "subjectSequences": [
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2024 students",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2025 students"
+      ],
+      "teachingPeriods": [
+        "{\"period\":\"Autumn (2025)\",\"locations\":[\"Parramatta - Victoria Rd\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "The subject provides students with an understanding of probabilistic models and inference. It covers model-based approaches for complex systems - from constructing these models to applying information to models. The models, which can be created manually and obtained by learning from data, will also be useful to make decisions under uncertainty. A variety of models and techniques will be discussed; examples include Monte Carlo Methods, Decision Theory, Bayesian networks, Markov networks, and the use of information theory.",
+      "discipline": "Statistics",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/math3011",
+      "subjectName": "MATH 3011 Probabilistic Models and Inference\n\t\t\t\t",
+      "filtered": 6,
+      "status": 4
+    },
+    "fill": "#AAAAAA",
+    "size": 20
+  },
+  {
+    "id": "713",
+    "label": "COMP 3020\n(Ineligible)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[\n  {\n    \"course\": \"SPECIAL\",\n    \"AND\": [\n      {\n        \"OR\": [\n          \"MATH 1028\",\n          \"MATH 1003\",\n          \"COMP 1014\"\n        ]\n      }\n    ]\n  },\n  {\n    \"course\": \"SPECIAL\",\n    \"AND\": [\n      {\n        \"OR\": [\n          \"MATH 1030\"\n        ]\n      },\n      {\n        \"OR\": [\n          \"COMP 1013\"\n        ]\n      },\n      {\n        \"OR\": [\n          \"MATH 1002\"\n        ]\n      }\n    ]\n  },\n  {\n    \"course\": \"SPECIAL\",\n    \"AND\": [\n      {\n        \"OR\": [\n          \"MATH 1012\"\n        ]\n      },\n      {\n        \"OR\": [\n          \"COMP 1013\"\n        ]\n      },\n      {\n        \"OR\": [\n          \"MATH 1002\"\n        ]\n      }\n    ]\n  },\n  {\n    \"course\": \"SPECIAL\",\n    \"AND\": [\n      {\n        \"OR\": [\n          \"MATH 2006\"\n        ]\n      },\n      {\n        \"OR\": [\n          \"COMP 1013\"\n        ]\n      },\n      {\n        \"OR\": [\n          \"MATH 1002\"\n        ]\n      }\n    ]\n  }\n]",
+      "coordinator": "Gizem Intepe",
+      "creditPoints": "10",
+      "code": "COMP 3020",
+      "subjectSequences": [
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2024 students",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2025 students"
+      ],
+      "teachingPeriods": [
+        "{\"period\":\"Vietnam Session 2 (2025)\",\"locations\":[\"Vietnam\"]}",
+        "{\"period\":\"Spring (2025)\",\"locations\":[\"Penrith (Kingswood)\",\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Vietnam Session 3 (2025)\",\"locations\":[\"Vietnam\"]}",
+        "{\"period\":\"Sydney City Campus - Term 3 (2025)\",\"locations\":[\"Sydney City\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "The Social Web provides everyone with a voice; information from Facebook, Twitter and other social networks allows us to identify trends and relationships in society. Whilst this has interest on a personal level, the killer-apps will be in analysing social Web data for business, such as tracking the buzz around a new product, and understanding the relationships between customers and products. This subject will introduce its students to the Social Web data that is available, and blend data science and machine learning concepts to allow extraction and analysis of such data.",
+      "discipline": "Statistics",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/comp3020",
+      "subjectName": "COMP 3020 Social Web Analytics\n\t\t\t\t",
+      "filtered": 6,
+      "status": 4
+    },
+    "fill": "#AAAAAA",
+    "size": 20
+  },
+  {
+    "id": "1087",
+    "label": "Requirements Not Met",
+    "data": {
+      "type": "Prerequisites",
+      "subjects": "[{\"OR\":[\"COMP 1005\"]}]",
+      "course": "any",
+      "forSubject": "COMP 2014",
+      "filtered": 4,
+      "status": 4
+    },
+    "fill": "#AAAAAA",
+    "size": 10
+  },
+  {
+    "id": "1162",
+    "label": "Requirements Not Met",
+    "data": {
+      "type": "Prerequisites",
+      "subjects": "[{\"OR\":[\"ENGR 1045\",\"COMP 1005\"]}]",
+      "course": "any",
+      "forSubject": "COMP 2021",
+      "filtered": 4,
+      "status": 4
+    },
+    "fill": "#AAAAAA",
+    "size": 10
+  },
+  {
+    "id": "712",
+    "label": "INFO 3002\n(Ineligible)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[\n  {\n    \"course\": \"any\",\n    \"AND\": [\n      {\n        \"OR\": [\n          \"COMP 2004\"\n        ]\n      }\n    ]\n  },\n  {\n    \"course\": \"any\",\n    \"AND\": [\n      {\n        \"OR\": [\n          \"COMP 2005\"\n        ]\n      },\n      {\n        \"OR\": [\n          \"COMP 2014\"\n        ]\n      }\n    ]\n  },\n  {\n    \"course\": \"any\",\n    \"AND\": [\n      {\n        \"OR\": [\n          \"COMP 2020\",\n          \"COMP 2021\"\n        ]\n      }\n    ]\n  }\n]",
+      "coordinator": "Weisheng Si",
+      "creditPoints": "10",
+      "code": "INFO 3002",
+      "subjectSequences": [
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2024 students",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2025 students",
+        "Bachelor of Cyber Security and Behaviour (1837)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Cyber Security and Behaviour (1837)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Cyber Security and Behaviour (1837)\n\t\t\t\t:Full-time intake",
+        "Bachelor of Cyber Security and Behaviour (1837)\n\t\t\t\t:Part-time intake",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Surabaya Campus Indonesia September 2024 Intake"
+      ],
+      "teachingPeriods": [
+        "{\"period\":\"WSU Online TRI-1 (2025)\",\"locations\":[\"Wsu Online\"]}",
+        "{\"period\":\"Autumn (2025)\",\"locations\":[\"Penrith (Kingswood)\",\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Sydney City Campus - Term 1 (2025)\",\"locations\":[\"Sydney City\"]}",
+        "{\"period\":\"Sydney City Campus - Term 2 (2025)\",\"locations\":[\"Sydney City\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "This subject teaches students ethical hacking principles and skills with the ultimate goal of defence. It covers practical skills in different stages of ethical hacking, including reconnaissance on public information, port and vulnerability scanning, exploitation of vulnerabilities, post exploitation, and writing a comprehensive report to document detected vulnerabilities and proposed solutions. Students will not only practise with major tools in ethical hacking, but also learn the principles of how these tools work and hence how to defend against them. Students completing this subject can pursue careers such as ethical hackers, security architects or security analysts.\n\n",
+      "discipline": "Security Science",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/info3002",
+      "subjectName": "INFO 3002 Ethical Hacking Principles and Practice\n\t\t\t\t",
+      "filtered": 6,
+      "status": 4
+    },
+    "fill": "#AAAAAA",
+    "size": 20
+  },
+  {
+    "id": "712",
+    "label": "INFO 3002\n(Ineligible)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[\n  {\n    \"course\": \"any\",\n    \"AND\": [\n      {\n        \"OR\": [\n          \"COMP 2004\"\n        ]\n      }\n    ]\n  },\n  {\n    \"course\": \"any\",\n    \"AND\": [\n      {\n        \"OR\": [\n          \"COMP 2005\"\n        ]\n      },\n      {\n        \"OR\": [\n          \"COMP 2014\"\n        ]\n      }\n    ]\n  },\n  {\n    \"course\": \"any\",\n    \"AND\": [\n      {\n        \"OR\": [\n          \"COMP 2020\",\n          \"COMP 2021\"\n        ]\n      }\n    ]\n  }\n]",
+      "coordinator": "Weisheng Si",
+      "creditPoints": "10",
+      "code": "INFO 3002",
+      "subjectSequences": [
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2024 students",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2025 students",
+        "Bachelor of Cyber Security and Behaviour (1837)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Cyber Security and Behaviour (1837)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Cyber Security and Behaviour (1837)\n\t\t\t\t:Full-time intake",
+        "Bachelor of Cyber Security and Behaviour (1837)\n\t\t\t\t:Part-time intake",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Surabaya Campus Indonesia September 2024 Intake"
+      ],
+      "teachingPeriods": [
+        "{\"period\":\"WSU Online TRI-1 (2025)\",\"locations\":[\"Wsu Online\"]}",
+        "{\"period\":\"Autumn (2025)\",\"locations\":[\"Penrith (Kingswood)\",\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Sydney City Campus - Term 1 (2025)\",\"locations\":[\"Sydney City\"]}",
+        "{\"period\":\"Sydney City Campus - Term 2 (2025)\",\"locations\":[\"Sydney City\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "This subject teaches students ethical hacking principles and skills with the ultimate goal of defence. It covers practical skills in different stages of ethical hacking, including reconnaissance on public information, port and vulnerability scanning, exploitation of vulnerabilities, post exploitation, and writing a comprehensive report to document detected vulnerabilities and proposed solutions. Students will not only practise with major tools in ethical hacking, but also learn the principles of how these tools work and hence how to defend against them. Students completing this subject can pursue careers such as ethical hackers, security architects or security analysts.\n\n",
+      "discipline": "Security Science",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/info3002",
+      "subjectName": "INFO 3002 Ethical Hacking Principles and Practice\n\t\t\t\t",
+      "filtered": 6,
+      "status": 4
+    },
+    "fill": "#AAAAAA",
+    "size": 20
+  },
+  {
+    "id": "821",
+    "label": "COMP 2005\n(Ineligible)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[]",
+      "coordinator": "Nabil Giweli",
+      "creditPoints": "10",
+      "code": "COMP 2005",
+      "subjectSequences": [
+        "Bachelor of Information Systems Advanced (3688)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Information Systems Advanced (3688)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Information Systems Advanced (3688)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Information Systems Advanced (3688)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Information and Communications Technology (Advanced) (3684)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Information and Communications Technology (Advanced) (3684)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Computer Science (Advanced) (3634)\n\t\t\t\t:Program Structure Current"
+      ],
+      "teachingPeriods": [
+        "{\"period\":\"Spring (2025)\",\"locations\":[\"Campbelltown\",\"Penrith (Kingswood)\",\"Parramatta - Victoria Rd\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "This subject introduces students to computer systems networking. It covers basic networking technologies, Ethernet fundamentals, ISO OSI model, routing, switching and subnetting, the Internet architecture, networking protocols including TCP/IP, important OSI layer 2 and 3 networking device fundamentals, basic network management and security issues. This subject is also the first of three units, which will prepare students for industry based networking certification (CCNA). Students in this advanced subject will be required to undertake individual assessment activities demonstrating a high level of technical and applied theoretical competency.",
+      "discipline": "Networks and Communications",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/comp2005",
+      "subjectName": "COMP 2005 Computer Networking (Advanced)\n\t\t\t\t",
+      "filtered": 6,
+      "status": 4
+    },
+    "fill": "#AAAAAA",
+    "size": 20
+  },
+  {
+    "id": "716",
+    "label": "MATH 1028\n(Prerequisite)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[]",
+      "coordinator": "Volker Gebhardt",
+      "creditPoints": "10",
+      "code": "MATH 1028",
+      "subjectSequences": [
+        "Bachelor of Computer Science (Advanced) (3634)\n\t\t\t\t:Program Structure Current",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Accelerated Pathway - Summer Sessions",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Suggested Elective Subjects",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Surabaya Campus Indonesia September 2024 Intake",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Sequence 6"
+      ],
+      "teachingPeriods": [
+        "{\"period\":\"Surabaya Semester 2 (2025)\",\"locations\":[\"Surabaya\"]}",
+        "{\"period\":\"Autumn (2025)\",\"locations\":[\"Campbelltown\",\"Penrith (Kingswood)\",\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Surabaya Semester 1 (2025)\",\"locations\":[\"Surabaya\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "Statistical Decision Making introduces students to various statistical techniques for analysing and interpreting data.  Presentation of the content will emphasise the correct principles and procedures for collecting and analysing data, using statistical software.  Topics include describing different sets of data, probability distributions, statistical inference, and simple linear regression and correlation. \nThe open-source statistical software package R will be introduced and used in this subject.\n\nAnalysing and interpreting data is crucial in many sectors of modern economy and society.  Thus, basic competencies in statistics, data collection and data analysis are essential employability skills in virtually every profession.\n",
+      "discipline": "Statistics",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/math1028",
+      "subjectName": "MATH 1028 Statistical Decision Making\n\t\t\t\t",
+      "filtered": 6,
+      "status": 2
+    },
+    "fill": "#734a60",
+    "size": 20
+  },
+  {
+    "id": "200",
+    "label": "MATH 1030\n(Prerequisite)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[]",
+      "coordinator": "Neil Hopkins",
+      "creditPoints": "10",
+      "code": "MATH 1030",
+      "subjectSequences": [],
+      "teachingPeriods": [
+        "{\"period\":\"Autumn (2025)\",\"locations\":[\"Bankstown City\",\"Campbelltown\",\"Parramatta City - Macquarie St\",\"Parramatta External\"]}",
+        "{\"period\":\"Sydney City Campus - Term 1 (2025)\",\"locations\":[\"Sydney City\"]}",
+        "{\"period\":\"WSU Online TRI-2 (2025)\",\"locations\":[\"Wsu Online\"]}",
+        "{\"period\":\"Sydney City Campus - Term 2 (2025)\",\"locations\":[\"Sydney City\"]}",
+        "{\"period\":\"Spring (2025)\",\"locations\":[\"Bankstown City\",\"Campbelltown\",\"Parramatta City - Macquarie St\"]}",
+        "{\"period\":\"Surabaya Semester 1 (2025)\",\"locations\":[\"Surabaya\"]}",
+        "{\"period\":\"Sydney City Campus - Term 3 (2025)\",\"locations\":[\"Sydney City\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "Statistics for Business introduces the basic concepts and techniques of statistics that are particularly relevant to problem solving in business. It also provides a sound base for more advanced study in statistics and forecasting in subsequent sessions. Topics include: presentation of data; descriptive statistics; the role of uncertainty in business decision making; hypothesis testing; and basic forecasting.",
+      "discipline": "Statistics",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/math1030",
+      "subjectName": "MATH 1030 Statistics for Business\n\t\t\t\t",
+      "filtered": 6,
+      "status": 2
+    },
+    "fill": "#734a60",
+    "size": 20
+  },
+  {
+    "id": "708",
+    "label": "COMP 3002\n(Ineligible)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[\n  {\n    \"course\": \"any\",\n    \"AND\": [\n      {\n        \"OR\": [\n          \"COMP 1013\",\n          \"COMP 1005\"\n        ]\n      }\n    ]\n  }\n]",
+      "coordinator": "Yi Guo",
+      "creditPoints": "10",
+      "code": "COMP 3002",
+      "subjectSequences": [
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2024 students",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2025 students"
+      ],
+      "teachingPeriods": [
+        "{\"period\":\"Autumn (2025)\",\"locations\":[\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Vietnam Session 3 (2025)\",\"locations\":[\"Vietnam\"]}",
+        "{\"period\":\"Sydney City Campus - Term 3 (2025)\",\"locations\":[\"Sydney City\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "Many techniques and tools have been developed over the past decade to cope with the ever-growing needs for the processing and analysis of big data. This subject will cover the key techniques that have been widely used in big data applications, such as relational and Not Only Structured Query Language (NoSQL) databases, Web Services, parallel and cloud computing, MapReduce, Hadoop and its eco-system. It aims to introduce the emerging technologies and applications in big data to students, and keep up with the latest trends in the industry.",
+      "discipline": "Computer Science",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/comp3002",
+      "subjectName": "COMP 3002 Applications of Big Data\n\t\t\t\t",
+      "filtered": 6,
+      "status": 4
+    },
+    "fill": "#AAAAAA",
+    "size": 20
+  },
+  {
+    "id": "804",
+    "label": "MATH 1003\n(Prerequisite)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[]",
+      "coordinator": "Nishanthi Raveendran",
+      "creditPoints": "10",
+      "code": "MATH 1003",
+      "subjectSequences": [],
+      "teachingPeriods": [
+        "{\"period\":\"Autumn (2025)\",\"locations\":[\"Campbelltown\",\"Hawkesbury\",\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Spring (2025)\",\"locations\":[\"Campbelltown\",\"Hawkesbury\",\"Parramatta - Victoria Rd\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "Biometry introduces students to various statistical techniques necessary in scientific endeavours. Presentation of the content will emphasise the correct principles and procedures for collecting and analysing scientific data, using a hands-on approach. Topics include effective methods of gathering data, statistical principles of designing experiments, error analysis, describing different sets of data, probability distributions, statistical inference, non-parametric methods, simple linear regression and analysis of categorical data.\n\n",
+      "discipline": "Statistics",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/math1003",
+      "subjectName": "MATH 1003 Biometry\n\t\t\t\t",
+      "filtered": 6,
+      "status": 2
+    },
+    "fill": "#734a60",
+    "size": 20
+  },
+  {
+    "id": "852",
+    "label": "MATH 1002\n(Prerequisite)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[]",
+      "coordinator": "Rosalind Wang",
+      "creditPoints": "10",
+      "code": "MATH 1002",
+      "subjectSequences": [],
+      "teachingPeriods": [],
+      "school": "Computer, Data & Math Sciences",
+      "description": "This subject covers the use of computers and computer programming for Data Science. After briefly considering spreadsheet systems, the subject will consider programming in the statistical system \"R\" in depth. Finally, other special purpose languages will be touched briefly (eg. SQL).",
+      "discipline": "Computer Science",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/math1002",
+      "subjectName": "MATH 1002 Analytics Programming\n\t\t\t\t",
+      "filtered": 6,
+      "status": 2
+    },
+    "fill": "#734a60",
+    "size": 20
+  },
+  {
+    "id": "716",
+    "label": "MATH 1028\n(Prerequisite)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[]",
+      "coordinator": "Volker Gebhardt",
+      "creditPoints": "10",
+      "code": "MATH 1028",
+      "subjectSequences": [
+        "Bachelor of Computer Science (Advanced) (3634)\n\t\t\t\t:Program Structure Current",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Accelerated Pathway - Summer Sessions",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Suggested Elective Subjects",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Surabaya Campus Indonesia September 2024 Intake",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Sequence 6"
+      ],
+      "teachingPeriods": [
+        "{\"period\":\"Surabaya Semester 2 (2025)\",\"locations\":[\"Surabaya\"]}",
+        "{\"period\":\"Autumn (2025)\",\"locations\":[\"Campbelltown\",\"Penrith (Kingswood)\",\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Surabaya Semester 1 (2025)\",\"locations\":[\"Surabaya\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "Statistical Decision Making introduces students to various statistical techniques for analysing and interpreting data.  Presentation of the content will emphasise the correct principles and procedures for collecting and analysing data, using statistical software.  Topics include describing different sets of data, probability distributions, statistical inference, and simple linear regression and correlation. \nThe open-source statistical software package R will be introduced and used in this subject.\n\nAnalysing and interpreting data is crucial in many sectors of modern economy and society.  Thus, basic competencies in statistics, data collection and data analysis are essential employability skills in virtually every profession.\n",
+      "discipline": "Statistics",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/math1028",
+      "subjectName": "MATH 1028 Statistical Decision Making\n\t\t\t\t",
+      "filtered": 6,
+      "status": 2
+    },
+    "fill": "#734a60",
+    "size": 20
+  },
+  {
+    "id": "821",
+    "label": "COMP 2005\n(Ineligible)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[]",
+      "coordinator": "Nabil Giweli",
+      "creditPoints": "10",
+      "code": "COMP 2005",
+      "subjectSequences": [
+        "Bachelor of Information Systems Advanced (3688)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Information Systems Advanced (3688)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Information Systems Advanced (3688)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Information Systems Advanced (3688)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Information and Communications Technology (Advanced) (3684)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Information and Communications Technology (Advanced) (3684)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Computer Science (Advanced) (3634)\n\t\t\t\t:Program Structure Current"
+      ],
+      "teachingPeriods": [
+        "{\"period\":\"Spring (2025)\",\"locations\":[\"Campbelltown\",\"Penrith (Kingswood)\",\"Parramatta - Victoria Rd\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "This subject introduces students to computer systems networking. It covers basic networking technologies, Ethernet fundamentals, ISO OSI model, routing, switching and subnetting, the Internet architecture, networking protocols including TCP/IP, important OSI layer 2 and 3 networking device fundamentals, basic network management and security issues. This subject is also the first of three units, which will prepare students for industry based networking certification (CCNA). Students in this advanced subject will be required to undertake individual assessment activities demonstrating a high level of technical and applied theoretical competency.",
+      "discipline": "Networks and Communications",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/comp2005",
+      "subjectName": "COMP 2005 Computer Networking (Advanced)\n\t\t\t\t",
+      "filtered": 6,
+      "status": 4
+    },
+    "fill": "#AAAAAA",
+    "size": 20
+  },
+  {
+    "id": "691",
+    "label": "COMP 2014\n(Ineligible)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[\n  {\n    \"course\": \"any\",\n    \"AND\": [\n      {\n        \"OR\": [\n          \"COMP 1005\"\n        ]\n      }\n    ]\n  },\n  {\n    \"course\": \"any\",\n    \"AND\": [\n      {\n        \"OR\": [\n          \"ENGR 1045\"\n        ]\n      }\n    ]\n  }\n]",
+      "coordinator": "Vernon Asuncion",
+      "creditPoints": "10",
+      "code": "COMP 2014",
+      "subjectSequences": [
+        "Bachelor of Computer Science (Advanced) (3634)\n\t\t\t\t:Program Structure Current",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Accelerated Pathway - Summer Sessions",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Suggested Elective Subjects",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Surabaya Campus Indonesia September 2024 Intake",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Sequence 6"
+      ],
+      "teachingPeriods": [
+        "{\"period\":\"Spring (2025)\",\"locations\":[\"Penrith (Kingswood)\",\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Surabaya Semester 1 (2025)\",\"locations\":[\"Surabaya\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "This subject presents the concepts and principles of programming languages with the emphasis on object oriented paradigm. It addresses the importance of the separation of behaviour and implementation as well as effective use of encapsulation, inheritance and polymorphism. The students will gain intensive training in programming skills with supervised laboratory sessions and task oriented assignments.",
+      "discipline": "Programming",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/comp2014",
+      "subjectName": "COMP 2014 Object Oriented Programming\n\t\t\t\t",
+      "filtered": 6,
+      "status": 4
+    },
+    "fill": "#AAAAAA",
+    "size": 20
+  },
+  {
+    "id": "741",
+    "label": "COMP 2021\n(Ineligible)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[\n  {\n    \"course\": \"any\",\n    \"AND\": [\n      {\n        \"OR\": [\n          \"ENGR 1045\",\n          \"COMP 1005\"\n        ]\n      }\n    ]\n  }\n]",
+      "coordinator": "Paul Davies",
+      "creditPoints": "10",
+      "code": "COMP 2021",
+      "subjectSequences": [
+        "Bachelor of Information and Communications Technology (Advanced) (3684)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Information and Communications Technology (Advanced) (3684)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Information and Communications Technology (3639)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Information and Communications Technology (3639)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Information and Communications Technology (3639)\n\t\t\t\t:Surabaya Campus Indonesia",
+        "Bachelor of Information and Communications Technology (3639)\n\t\t\t\t:Surabaya Campus Indonesia"
+      ],
+      "teachingPeriods": [
+        "{\"period\":\"Surabaya Semester 2 (2025)\",\"locations\":[\"Surabaya\"]}",
+        "{\"period\":\"Autumn (2025)\",\"locations\":[\"Campbelltown\",\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Sydney City Campus - Term 2 (2025)\",\"locations\":[\"Sydney City\"]}",
+        "{\"period\":\"Spring (2025)\",\"locations\":[\"Campbelltown\",\"Penrith (Kingswood)\",\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Sydney City Campus - Term 3 (2025)\",\"locations\":[\"Sydney City\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "This subject introduces software engineering principles including basic software lifecycle concepts, modern development methodologies and version control, conceptual modelling and how these activities relate to programming. Students apply this knowledge together with essential team-based project management to design, build and deploy a simple web-based application. The subject provides students with the skills required in software design and development and prepares them to work in a team setting.",
+      "discipline": "Programming",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/comp2021",
+      "subjectName": "COMP 2021 Software Engineering Fundamentals\n\t\t\t\t",
+      "filtered": 6,
+      "status": 4
+    },
+    "fill": "#AAAAAA",
+    "size": 20
+  },
+  {
+    "id": "709",
+    "label": "COMP 2020\n(Ineligible)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[\n  {\n    \"course\": \"any\",\n    \"AND\": [\n      {\n        \"OR\": [\n          \"COMP 1005\"\n        ]\n      }\n    ]\n  }\n]",
+      "coordinator": "Paul Davies",
+      "creditPoints": "10",
+      "code": "COMP 2020",
+      "subjectSequences": [
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2024 students",
+        "Bachelor of Data Science (3769)\n\t\t\t\t:Surabaya Campus Indonesia - 2025 students",
+        "Bachelor of Cyber Security and Behaviour (1837)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Cyber Security and Behaviour (1837)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Cyber Security and Behaviour (1837)\n\t\t\t\t:Full-time intake",
+        "Bachelor of Cyber Security and Behaviour (1837)\n\t\t\t\t:Part-time intake"
+      ],
+      "teachingPeriods": [
+        "{\"period\":\"WSU Online TRI-1 (2025)\",\"locations\":[\"Wsu Online\"]}",
+        "{\"period\":\"Autumn (2025)\",\"locations\":[\"Penrith (Kingswood)\",\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Sydney City Campus - Term 2 (2025)\",\"locations\":[\"Sydney City\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "Building on material covered in Programming Fundamentals this subject introduces students to some of the key technologies for developing interactive and dynamic web applications from both the client and server perspective. The subject covers web site design, web site development, web page accessibility and usability, HTML, CSS, client side and server side scripting, database interaction, web site promotion (Search Engine Optimisation) and web security.",
+      "discipline": "Computer Science, Not Elsewhere Classified.",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/comp2020",
+      "subjectName": "COMP 2020 Technologies for Web Applications\n\t\t\t\t",
+      "filtered": 6,
+      "status": 4
+    },
+    "fill": "#AAAAAA",
+    "size": 20
+  },
+  {
+    "id": "716",
+    "label": "MATH 1028\n(Prerequisite)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[]",
+      "coordinator": "Volker Gebhardt",
+      "creditPoints": "10",
+      "code": "MATH 1028",
+      "subjectSequences": [
+        "Bachelor of Computer Science (Advanced) (3634)\n\t\t\t\t:Program Structure Current",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Accelerated Pathway - Summer Sessions",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Suggested Elective Subjects",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Surabaya Campus Indonesia September 2024 Intake",
+        "Bachelor of Computer Science (3506)\n\t\t\t\t:Sequence 6"
+      ],
+      "teachingPeriods": [
+        "{\"period\":\"Surabaya Semester 2 (2025)\",\"locations\":[\"Surabaya\"]}",
+        "{\"period\":\"Autumn (2025)\",\"locations\":[\"Campbelltown\",\"Penrith (Kingswood)\",\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Surabaya Semester 1 (2025)\",\"locations\":[\"Surabaya\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "Statistical Decision Making introduces students to various statistical techniques for analysing and interpreting data.  Presentation of the content will emphasise the correct principles and procedures for collecting and analysing data, using statistical software.  Topics include describing different sets of data, probability distributions, statistical inference, and simple linear regression and correlation. \nThe open-source statistical software package R will be introduced and used in this subject.\n\nAnalysing and interpreting data is crucial in many sectors of modern economy and society.  Thus, basic competencies in statistics, data collection and data analysis are essential employability skills in virtually every profession.\n",
+      "discipline": "Statistics",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/math1028",
+      "subjectName": "MATH 1028 Statistical Decision Making\n\t\t\t\t",
+      "filtered": 6,
+      "status": 2
+    },
+    "fill": "#734a60",
+    "size": 20
+  },
+  {
+    "id": "804",
+    "label": "MATH 1003\n(Prerequisite)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[]",
+      "coordinator": "Nishanthi Raveendran",
+      "creditPoints": "10",
+      "code": "MATH 1003",
+      "subjectSequences": [],
+      "teachingPeriods": [
+        "{\"period\":\"Autumn (2025)\",\"locations\":[\"Campbelltown\",\"Hawkesbury\",\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Spring (2025)\",\"locations\":[\"Campbelltown\",\"Hawkesbury\",\"Parramatta - Victoria Rd\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "Biometry introduces students to various statistical techniques necessary in scientific endeavours. Presentation of the content will emphasise the correct principles and procedures for collecting and analysing scientific data, using a hands-on approach. Topics include effective methods of gathering data, statistical principles of designing experiments, error analysis, describing different sets of data, probability distributions, statistical inference, non-parametric methods, simple linear regression and analysis of categorical data.\n\n",
+      "discipline": "Statistics",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/math1003",
+      "subjectName": "MATH 1003 Biometry\n\t\t\t\t",
+      "filtered": 6,
+      "status": 2
+    },
+    "fill": "#734a60",
+    "size": 20
+  },
+  {
+    "id": "200",
+    "label": "MATH 1030\n(Prerequisite)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[]",
+      "coordinator": "Neil Hopkins",
+      "creditPoints": "10",
+      "code": "MATH 1030",
+      "subjectSequences": [],
+      "teachingPeriods": [
+        "{\"period\":\"Autumn (2025)\",\"locations\":[\"Bankstown City\",\"Campbelltown\",\"Parramatta City - Macquarie St\",\"Parramatta External\"]}",
+        "{\"period\":\"Sydney City Campus - Term 1 (2025)\",\"locations\":[\"Sydney City\"]}",
+        "{\"period\":\"WSU Online TRI-2 (2025)\",\"locations\":[\"Wsu Online\"]}",
+        "{\"period\":\"Sydney City Campus - Term 2 (2025)\",\"locations\":[\"Sydney City\"]}",
+        "{\"period\":\"Spring (2025)\",\"locations\":[\"Bankstown City\",\"Campbelltown\",\"Parramatta City - Macquarie St\"]}",
+        "{\"period\":\"Surabaya Semester 1 (2025)\",\"locations\":[\"Surabaya\"]}",
+        "{\"period\":\"Sydney City Campus - Term 3 (2025)\",\"locations\":[\"Sydney City\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "Statistics for Business introduces the basic concepts and techniques of statistics that are particularly relevant to problem solving in business. It also provides a sound base for more advanced study in statistics and forecasting in subsequent sessions. Topics include: presentation of data; descriptive statistics; the role of uncertainty in business decision making; hypothesis testing; and basic forecasting.",
+      "discipline": "Statistics",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/math1030",
+      "subjectName": "MATH 1030 Statistics for Business\n\t\t\t\t",
+      "filtered": 6,
+      "status": 2
+    },
+    "fill": "#734a60",
+    "size": 20
+  },
+  {
+    "id": "852",
+    "label": "MATH 1002\n(Prerequisite)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[]",
+      "coordinator": "Rosalind Wang",
+      "creditPoints": "10",
+      "code": "MATH 1002",
+      "subjectSequences": [],
+      "teachingPeriods": [],
+      "school": "Computer, Data & Math Sciences",
+      "description": "This subject covers the use of computers and computer programming for Data Science. After briefly considering spreadsheet systems, the subject will consider programming in the statistical system \"R\" in depth. Finally, other special purpose languages will be touched briefly (eg. SQL).",
+      "discipline": "Computer Science",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/math1002",
+      "subjectName": "MATH 1002 Analytics Programming\n\t\t\t\t",
+      "filtered": 6,
+      "status": 2
+    },
+    "fill": "#734a60",
+    "size": 20
+  },
+  {
+    "id": "852",
+    "label": "MATH 1002\n(Prerequisite)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[]",
+      "coordinator": "Rosalind Wang",
+      "creditPoints": "10",
+      "code": "MATH 1002",
+      "subjectSequences": [],
+      "teachingPeriods": [],
+      "school": "Computer, Data & Math Sciences",
+      "description": "This subject covers the use of computers and computer programming for Data Science. After briefly considering spreadsheet systems, the subject will consider programming in the statistical system \"R\" in depth. Finally, other special purpose languages will be touched briefly (eg. SQL).",
+      "discipline": "Computer Science",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/math1002",
+      "subjectName": "MATH 1002 Analytics Programming\n\t\t\t\t",
+      "filtered": 6,
+      "status": 2
+    },
+    "fill": "#734a60",
+    "size": 20
+  },
+  {
+    "id": "170",
+    "label": "MATH 1012\n(Prerequisite)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[]",
+      "coordinator": "Neil Hopkins",
+      "creditPoints": "10",
+      "code": "MATH 1012",
+      "subjectSequences": [],
+      "teachingPeriods": [
+        "{\"period\":\"WSU Online TRI-1 (2025)\",\"locations\":[\"Wsu Online\"]}",
+        "{\"period\":\"Autumn (2025)\",\"locations\":[\"Parramatta City - Macquarie St\"]}",
+        "{\"period\":\"Spring (2025)\",\"locations\":[\"Bankstown City\",\"Campbelltown\",\"Parramatta City - Macquarie St\"]}",
+        "{\"period\":\"WSU Online TRI-3 (2025)\",\"locations\":[\"Wsu Online\"]}",
+        "{\"period\":\"Sydney City Campus - Term 3 (2025)\",\"locations\":[\"Sydney City\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "Management Analytics provides students with introductory knowledge and skills in identifying, analysing and interpreting data relevant to Business, Human Resources and Management. In order to develop evidence-based decision-making skills, students will learn how to work with data. Students will organise and summarise data, present data visually and design surveys for new data collection and use. Students will develop skills in understanding decision-making models and forecasting as a means of improving business processes and HR, management and business metrics.",
+      "discipline": "Statistics",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/math1012",
+      "subjectName": "MATH 1012 Management Analytics\n\t\t\t\t",
+      "filtered": 6,
+      "status": 2
+    },
+    "fill": "#734a60",
+    "size": 20
+  },
+  {
+    "id": "852",
+    "label": "MATH 1002\n(Prerequisite)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[]",
+      "coordinator": "Rosalind Wang",
+      "creditPoints": "10",
+      "code": "MATH 1002",
+      "subjectSequences": [],
+      "teachingPeriods": [],
+      "school": "Computer, Data & Math Sciences",
+      "description": "This subject covers the use of computers and computer programming for Data Science. After briefly considering spreadsheet systems, the subject will consider programming in the statistical system \"R\" in depth. Finally, other special purpose languages will be touched briefly (eg. SQL).",
+      "discipline": "Computer Science",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/math1002",
+      "subjectName": "MATH 1002 Analytics Programming\n\t\t\t\t",
+      "filtered": 6,
+      "status": 2
+    },
+    "fill": "#734a60",
+    "size": 20
+  },
+  {
+    "id": "821",
+    "label": "COMP 2005\n(Ineligible)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[]",
+      "coordinator": "Nabil Giweli",
+      "creditPoints": "10",
+      "code": "COMP 2005",
+      "subjectSequences": [
+        "Bachelor of Information Systems Advanced (3688)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Information Systems Advanced (3688)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Information Systems Advanced (3688)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Information Systems Advanced (3688)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Information and Communications Technology (Advanced) (3684)\n\t\t\t\t:Full-time start-year intake",
+        "Bachelor of Information and Communications Technology (Advanced) (3684)\n\t\t\t\t:Full-time mid-year intake",
+        "Bachelor of Computer Science (Advanced) (3634)\n\t\t\t\t:Program Structure Current"
+      ],
+      "teachingPeriods": [
+        "{\"period\":\"Spring (2025)\",\"locations\":[\"Campbelltown\",\"Penrith (Kingswood)\",\"Parramatta - Victoria Rd\"]}"
+      ],
+      "school": "Computer, Data & Math Sciences",
+      "description": "This subject introduces students to computer systems networking. It covers basic networking technologies, Ethernet fundamentals, ISO OSI model, routing, switching and subnetting, the Internet architecture, networking protocols including TCP/IP, important OSI layer 2 and 3 networking device fundamentals, basic network management and security issues. This subject is also the first of three units, which will prepare students for industry based networking certification (CCNA). Students in this advanced subject will be required to undertake individual assessment activities demonstrating a high level of technical and applied theoretical competency.",
+      "discipline": "Networks and Communications",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/comp2005",
+      "subjectName": "COMP 2005 Computer Networking (Advanced)\n\t\t\t\t",
+      "filtered": 6,
+      "status": 4
+    },
+    "fill": "#AAAAAA",
+    "size": 20
+  },
+  {
+    "id": "657",
+    "label": "COMM 1026\n(Prerequisite)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[]",
+      "coordinator": "Myra Gurney",
+      "creditPoints": "10",
+      "code": "COMM 1026",
+      "subjectSequences": [],
+      "teachingPeriods": [],
+      "school": "Humanities & Comm Arts",
+      "description": "The subject provides students with an introductory understanding of a range of communication theories and practices necessary for academic work and professional success.",
+      "discipline": "Communication and Media Studies, Not Elsewhere Classified.",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/comm1026",
+      "subjectName": "COMM 1026 Principles of Professional Communication 1\n\t\t\t\t",
+      "filtered": 6,
+      "status": 2
+    },
+    "fill": "#734a60",
+    "size": 20
+  },
+  {
+    "id": "78",
+    "label": "COMM 1044\n(Prerequisite)",
+    "data": {
+      "type": "Subject",
+      "prerequisites": "[]",
+      "coordinator": "Myra Gurney",
+      "creditPoints": "10",
+      "code": "COMM 1044",
+      "subjectSequences": [],
+      "teachingPeriods": [
+        "{\"period\":\"Autumn (2025)\",\"locations\":[\"Online\",\"Parramatta - Victoria Rd\"]}",
+        "{\"period\":\"Sydney City Campus - Term 2 (2025)\",\"locations\":[\"Sydney City\"]}",
+        "{\"period\":\"Sydney City Campus - Term 3 (2025)\",\"locations\":[\"Sydney City\"]}"
+      ],
+      "school": "Humanities & Comm Arts",
+      "description": "Understanding of the complexities of human communication is an important part of professional practice in all communication and creative industries. In this subject you will explore both theoretical and practical elements of professional communication and how these can be applied to understanding and solving real world communication problems. Subject content provides you with a range of communication contexts necessary for academic work and professional success. It also asks you to learn and practise a variety of professional writing styles and give class presentations with particular attention to how these vary according to the audience, context and medium.",
+      "discipline": "Communication and Media Studies, Not Elsewhere Classified.",
+      "subjectLink": "https://hbook.westernsydney.edu.au/subject-details/comm1044",
+      "subjectName": "COMM 1044 Professional Communication\n\t\t\t\t",
+      "filtered": 6,
+      "status": 2
+    },
+    "fill": "#734a60",
+    "size": 20
+  }
+]

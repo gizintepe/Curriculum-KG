@@ -1,0 +1,877 @@
+[
+  {
+    "id": "2045:13661380",
+    "source": "1366",
+    "target": "1380",
+    "label": "HAS_SPECIALISATION"
+  },
+  {
+    "id": "2134:1366814",
+    "source": "1366",
+    "target": "814",
+    "label": "REQUIRES_SUBJECT"
+  },
+  {
+    "id": "2146:13661106",
+    "source": "1366",
+    "target": "1106",
+    "label": "REQUIRES_SUBJECT"
+  },
+  {
+    "id": "2157:1366824",
+    "source": "1366",
+    "target": "824",
+    "label": "REQUIRES_SUBJECT"
+  },
+  {
+    "id": "2145:13661108",
+    "source": "1366",
+    "target": "1108",
+    "label": "REQUIRES_SUBJECT"
+  },
+  {
+    "id": "2136:1366767",
+    "source": "1366",
+    "target": "767",
+    "label": "REQUIRES_SUBJECT"
+  },
+  {
+    "id": "2162:13661134",
+    "source": "1366",
+    "target": "1134",
+    "label": "REQUIRES_SUBJECT"
+  },
+  {
+    "id": "2161:13661099",
+    "source": "1366",
+    "target": "1099",
+    "label": "REQUIRES_SUBJECT"
+  },
+  {
+    "id": "2139:1366744",
+    "source": "1366",
+    "target": "744",
+    "label": "REQUIRES_SUBJECT"
+  },
+  {
+    "id": "2165:13661185",
+    "source": "1366",
+    "target": "1185",
+    "label": "REQUIRES_SUBJECT"
+  },
+  {
+    "id": "2143:13661101",
+    "source": "1366",
+    "target": "1101",
+    "label": "REQUIRES_SUBJECT"
+  },
+  {
+    "id": "2150:13661098",
+    "source": "1366",
+    "target": "1098",
+    "label": "REQUIRES_SUBJECT"
+  },
+  {
+    "id": "2170:13661104",
+    "source": "1366",
+    "target": "1104",
+    "label": "REQUIRES_SUBJECT"
+  },
+  {
+    "id": "2148:13661107",
+    "source": "1366",
+    "target": "1107",
+    "label": "REQUIRES_SUBJECT"
+  },
+  {
+    "id": "2159:1366769",
+    "source": "1366",
+    "target": "769",
+    "label": "REQUIRES_SUBJECT"
+  },
+  {
+    "id": "2166:13661096",
+    "source": "1366",
+    "target": "1096",
+    "label": "REQUIRES_SUBJECT"
+  },
+  {
+    "id": "2149:1366747",
+    "source": "1366",
+    "target": "747",
+    "label": "REQUIRES_SUBJECT"
+  },
+  {
+    "id": "2151:13661100",
+    "source": "1366",
+    "target": "1100",
+    "label": "REQUIRES_SUBJECT"
+  },
+  {
+    "id": "2135:1366746",
+    "source": "1366",
+    "target": "746",
+    "label": "REQUIRES_SUBJECT"
+  },
+  {
+    "id": "2167:13661095",
+    "source": "1366",
+    "target": "1095",
+    "label": "REQUIRES_SUBJECT"
+  },
+  {
+    "id": "2147:13661105",
+    "source": "1366",
+    "target": "1105",
+    "label": "REQUIRES_SUBJECT"
+  },
+  {
+    "id": "2163:13661135",
+    "source": "1366",
+    "target": "1135",
+    "label": "REQUIRES_SUBJECT"
+  },
+  {
+    "id": "2142:1366745",
+    "source": "1366",
+    "target": "745",
+    "label": "REQUIRES_SUBJECT"
+  },
+  {
+    "id": "2144:1366770",
+    "source": "1366",
+    "target": "770",
+    "label": "REQUIRES_SUBJECT"
+  },
+  {
+    "id": "2153:1366742",
+    "source": "1366",
+    "target": "742",
+    "label": "REQUIRES_SUBJECT"
+  },
+  {
+    "id": "2138:1366808",
+    "source": "1366",
+    "target": "808",
+    "label": "REQUIRES_SUBJECT"
+  },
+  {
+    "id": "2137:1366825",
+    "source": "1366",
+    "target": "825",
+    "label": "REQUIRES_SUBJECT"
+  },
+  {
+    "id": "2171:13661102",
+    "source": "1366",
+    "target": "1102",
+    "label": "REQUIRES_SUBJECT"
+  },
+  {
+    "id": "2141:1366748",
+    "source": "1366",
+    "target": "748",
+    "label": "REQUIRES_SUBJECT"
+  },
+  {
+    "id": "2169:13661103",
+    "source": "1366",
+    "target": "1103",
+    "label": "REQUIRES_SUBJECT"
+  },
+  {
+    "id": "2154:13661396",
+    "source": "1366",
+    "target": "1396",
+    "label": "PROVIDES_SELECTION"
+  },
+  {
+    "id": "2140:13661394",
+    "source": "1366",
+    "target": "1394",
+    "label": "PROVIDES_SELECTION"
+  },
+  {
+    "id": "2155:13661397",
+    "source": "1366",
+    "target": "1397",
+    "label": "PROVIDES_SELECTION"
+  },
+  {
+    "id": "2152:13661395",
+    "source": "1366",
+    "target": "1395",
+    "label": "PROVIDES_SELECTION"
+  },
+  {
+    "id": "2038:138072",
+    "source": "1380",
+    "target": "72",
+    "label": "REQUIRES_SUBJECT"
+  },
+  {
+    "id": "2039:13801381",
+    "source": "1380",
+    "target": "1381",
+    "label": "PROVIDES_SELECTION"
+  },
+  {
+    "id": "508:1106713",
+    "source": "1106",
+    "target": "713",
+    "label": "PATHWAY_TO",
+    "dashed": true
+  },
+  {
+    "id": "690:8241185",
+    "source": "824",
+    "target": "1185",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "563:8241129",
+    "source": "824",
+    "target": "1129",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "346:8241041",
+    "source": "824",
+    "target": "1041",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "516:1108713",
+    "source": "1108",
+    "target": "713",
+    "label": "PATHWAY_TO",
+    "dashed": true
+  },
+  {
+    "id": "54:767896",
+    "source": "767",
+    "target": "896",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "480:1099709",
+    "source": "1099",
+    "target": "709",
+    "label": "PATHWAY_TO",
+    "dashed": true
+  },
+  {
+    "id": "693:1185803",
+    "source": "1185",
+    "target": "803",
+    "label": "PATHWAY_TO",
+    "dashed": true
+  },
+  {
+    "id": "492:1101711",
+    "source": "1101",
+    "target": "711",
+    "label": "PATHWAY_TO",
+    "dashed": true
+  },
+  {
+    "id": "478:1098708",
+    "source": "1098",
+    "target": "708",
+    "label": "PATHWAY_TO",
+    "dashed": true
+  },
+  {
+    "id": "500:1104712",
+    "source": "1104",
+    "target": "712",
+    "label": "PATHWAY_TO",
+    "dashed": true
+  },
+  {
+    "id": "512:1107713",
+    "source": "1107",
+    "target": "713",
+    "label": "PATHWAY_TO",
+    "dashed": true
+  },
+  {
+    "id": "414:7691071",
+    "source": "769",
+    "target": "1071",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "578:7691136",
+    "source": "769",
+    "target": "1136",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "574:7691134",
+    "source": "769",
+    "target": "1134",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "380:7691056",
+    "source": "769",
+    "target": "1056",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "493:7691102",
+    "source": "769",
+    "target": "1102",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "470:7691095",
+    "source": "769",
+    "target": "1095",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "437:7691081",
+    "source": "769",
+    "target": "1081",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "483:7471100",
+    "source": "747",
+    "target": "1100",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "395:7471063",
+    "source": "747",
+    "target": "1063",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "484:1100710",
+    "source": "1100",
+    "target": "710",
+    "label": "PATHWAY_TO",
+    "dashed": true
+  },
+  {
+    "id": "400:7461065",
+    "source": "746",
+    "target": "1065",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "486:7461101",
+    "source": "746",
+    "target": "1101",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "503:7461105",
+    "source": "746",
+    "target": "1105",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "504:1105713",
+    "source": "1105",
+    "target": "713",
+    "label": "PATHWAY_TO",
+    "dashed": true
+  },
+  {
+    "id": "183:808963",
+    "source": "808",
+    "target": "963",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "342:8251039",
+    "source": "825",
+    "target": "1039",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "596:8251145",
+    "source": "825",
+    "target": "1145",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "464:8251092",
+    "source": "825",
+    "target": "1092",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "548:8251124",
+    "source": "825",
+    "target": "1124",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "452:8251087",
+    "source": "825",
+    "target": "1087",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "489:8251101",
+    "source": "825",
+    "target": "1101",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "582:8251138",
+    "source": "825",
+    "target": "1138",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "636:8251162",
+    "source": "825",
+    "target": "1162",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "477:8251098",
+    "source": "825",
+    "target": "1098",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "694:8251186",
+    "source": "825",
+    "target": "1186",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "479:8251099",
+    "source": "825",
+    "target": "1099",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "494:1102712",
+    "source": "1102",
+    "target": "712",
+    "label": "PATHWAY_TO",
+    "dashed": true
+  },
+  {
+    "id": "510:7481107",
+    "source": "748",
+    "target": "1107",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "476:7481098",
+    "source": "748",
+    "target": "1098",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "506:7481106",
+    "source": "748",
+    "target": "1106",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "514:7481108",
+    "source": "748",
+    "target": "1108",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "482:7481100",
+    "source": "748",
+    "target": "1100",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "497:1103712",
+    "source": "1103",
+    "target": "712",
+    "label": "PATHWAY_TO",
+    "dashed": true
+  },
+  {
+    "id": "2040:1381231",
+    "source": "1381",
+    "target": "231",
+    "label": "REQUIRES_CHOICE"
+  },
+  {
+    "id": "2041:1381527",
+    "source": "1381",
+    "target": "527",
+    "label": "REQUIRES_CHOICE"
+  },
+  {
+    "id": "2042:138112",
+    "source": "1381",
+    "target": "12",
+    "label": "REQUIRES_CHOICE"
+  },
+  {
+    "id": "2044:1381609",
+    "source": "1381",
+    "target": "609",
+    "label": "REQUIRES_CHOICE"
+  },
+  {
+    "id": "2043:1381660",
+    "source": "1381",
+    "target": "660",
+    "label": "REQUIRES_CHOICE"
+  },
+  {
+    "id": "424:7091075",
+    "source": "709",
+    "target": "1075",
+    "label": "PREREQUISITE_FOR",
+    "dashed": true
+  },
+  {
+    "id": "430:7091078",
+    "source": "709",
+    "target": "1078",
+    "label": "PREREQUISITE_FOR",
+    "dashed": true
+  },
+  {
+    "id": "498:7091104",
+    "source": "709",
+    "target": "1104",
+    "label": "PREREQUISITE_FOR",
+    "dashed": true
+  },
+  {
+    "id": "491:7081101",
+    "source": "708",
+    "target": "1101",
+    "label": "PREREQUISITE_FOR",
+    "dashed": true
+  },
+  {
+    "id": "453:1087691",
+    "source": "1087",
+    "target": "691",
+    "label": "PATHWAY_TO",
+    "dashed": true
+  },
+  {
+    "id": "637:1162741",
+    "source": "1162",
+    "target": "741",
+    "label": "PATHWAY_TO",
+    "dashed": true
+  },
+  {
+    "id": "576:8211135",
+    "source": "821",
+    "target": "1135",
+    "label": "PREREQUISITE_FOR",
+    "dashed": true
+  },
+  {
+    "id": "580:8211137",
+    "source": "821",
+    "target": "1137",
+    "label": "PREREQUISITE_FOR",
+    "dashed": true
+  },
+  {
+    "id": "495:8211103",
+    "source": "821",
+    "target": "1103",
+    "label": "PREREQUISITE_FOR",
+    "dashed": true
+  },
+  {
+    "id": "439:8211082",
+    "source": "821",
+    "target": "1082",
+    "label": "PREREQUISITE_FOR",
+    "dashed": true
+  },
+  {
+    "id": "382:8211057",
+    "source": "821",
+    "target": "1057",
+    "label": "PREREQUISITE_FOR",
+    "dashed": true
+  },
+  {
+    "id": "472:8211096",
+    "source": "821",
+    "target": "1096",
+    "label": "PREREQUISITE_FOR",
+    "dashed": true
+  },
+  {
+    "id": "350:7161043",
+    "source": "716",
+    "target": "1043",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "501:7161105",
+    "source": "716",
+    "target": "1105",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "481:7161100",
+    "source": "716",
+    "target": "1100",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "310:7161026",
+    "source": "716",
+    "target": "1026",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "396:7161063",
+    "source": "716",
+    "target": "1063",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "485:7161101",
+    "source": "716",
+    "target": "1101",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "29:716884",
+    "source": "716",
+    "target": "884",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "312:2001026",
+    "source": "200",
+    "target": "1026",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "505:2001106",
+    "source": "200",
+    "target": "1106",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "488:2001101",
+    "source": "200",
+    "target": "1101",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "33:200886",
+    "source": "200",
+    "target": "886",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "398:2001064",
+    "source": "200",
+    "target": "1064",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "207:200975",
+    "source": "200",
+    "target": "975",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "119:200929",
+    "source": "200",
+    "target": "929",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "354:2001045",
+    "source": "200",
+    "target": "1045",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "720:2001199",
+    "source": "200",
+    "target": "1199",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "311:8041026",
+    "source": "804",
+    "target": "1026",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "352:8041044",
+    "source": "804",
+    "target": "1044",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "487:8041101",
+    "source": "804",
+    "target": "1101",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "502:8041105",
+    "source": "804",
+    "target": "1105",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "31:804885",
+    "source": "804",
+    "target": "885",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "511:8521107",
+    "source": "852",
+    "target": "1107",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "507:8521106",
+    "source": "852",
+    "target": "1106",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "490:8521101",
+    "source": "852",
+    "target": "1101",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "515:8521108",
+    "source": "852",
+    "target": "1108",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "447:6911085",
+    "source": "691",
+    "target": "1085",
+    "label": "PREREQUISITE_FOR",
+    "dashed": true
+  },
+  {
+    "id": "496:6911103",
+    "source": "691",
+    "target": "1103",
+    "label": "PREREQUISITE_FOR",
+    "dashed": true
+  },
+  {
+    "id": "432:6911079",
+    "source": "691",
+    "target": "1079",
+    "label": "PREREQUISITE_FOR",
+    "dashed": true
+  },
+  {
+    "id": "418:6911072",
+    "source": "691",
+    "target": "1072",
+    "label": "PREREQUISITE_FOR",
+    "dashed": true
+  },
+  {
+    "id": "564:6911129",
+    "source": "691",
+    "target": "1129",
+    "label": "PREREQUISITE_FOR",
+    "dashed": true
+  },
+  {
+    "id": "389:6911060",
+    "source": "691",
+    "target": "1060",
+    "label": "PREREQUISITE_FOR",
+    "dashed": true
+  },
+  {
+    "id": "415:6911071",
+    "source": "691",
+    "target": "1071",
+    "label": "PREREQUISITE_FOR",
+    "dashed": true
+  },
+  {
+    "id": "566:6911130",
+    "source": "691",
+    "target": "1130",
+    "label": "PREREQUISITE_FOR",
+    "dashed": true
+  },
+  {
+    "id": "525:6911113",
+    "source": "691",
+    "target": "1113",
+    "label": "PREREQUISITE_FOR",
+    "dashed": true
+  },
+  {
+    "id": "499:7411104",
+    "source": "741",
+    "target": "1104",
+    "label": "PREREQUISITE_FOR",
+    "dashed": true
+  },
+  {
+    "id": "594:7411144",
+    "source": "741",
+    "target": "1144",
+    "label": "PREREQUISITE_FOR",
+    "dashed": true
+  },
+  {
+    "id": "509:1701107",
+    "source": "170",
+    "target": "1107",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "329:7071034",
+    "source": "707",
+    "target": "1034",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "513:7071108",
+    "source": "707",
+    "target": "1108",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "327:7071033",
+    "source": "707",
+    "target": "1033",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "692:6571185",
+    "source": "657",
+    "target": "1185",
+    "label": "PREREQUISITE_FOR"
+  },
+  {
+    "id": "691:781185",
+    "source": "78",
+    "target": "1185",
+    "label": "PREREQUISITE_FOR"
+  }
+]
